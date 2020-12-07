@@ -24,14 +24,15 @@ Kinderen tussen de 7 – 14 jaar kunnen vanaf nu terecht op drie locaties in Ned
 <br> 
 
 
-#### De behandeling
-In dit project willen we uitzoeken of we de behandeling nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een programma met een mobiele app – ondersteund door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
+#### Over de training
+In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën bij kinderen nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een trainingsprogramma met een mobiele app – ondersteunt door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
 
-Tijdens de behandeling vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
+Tijdens de training vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
 
 <br> 
 
-#### Wil je graag meer informatie of wil je je aanmelden?
+#### Meer informatie of aanmelden?
+Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
 telefoonnummer: 071 527 6673
 <br>
 E-Mail: kiba@fsw.leidenuniv.nl
