@@ -11,6 +11,8 @@ members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
 <br>
 Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
 
+<br>
+
 #### Achtergrond
 Kinderen met een specifieke fobie zijn heel bang voor bepaalde voorwerpen, dieren of situaties. Sommige kinderen zijn bijvoorbeeld erg bang voor spinnen, honden, wespen, harde geluiden, het krijgen van een prik, hoogtes of kleine ruimtes. Veel kinderen hebben last van een specifieke fobie, en dat kan het leven thuis, op school en daarbuiten best moeilijk maken. 
 
@@ -29,7 +31,7 @@ Tijdens de behandeling vormen de kinderen een team met hun therapeut om hun angs
 
 <br> 
 
-#### Meld je aan!
+#### Wil je graag meer informatie of wil je je aanmelden?
 telefoonnummer: 071 527 6673
 <br>
 E-Mail: kiba@fsw.leidenuniv.nl
