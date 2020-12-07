@@ -8,5 +8,5 @@ image: /img/corona.jpg
 members: [michiel, anke, anika]
 ---
 
-Op deze pagina komt informatie over Corona en angst bij kinderen
+Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en zorgen rondom Corona. Op deze pagina komt informatie over Corona en angst bij kinderen
 
