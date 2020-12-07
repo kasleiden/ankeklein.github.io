@@ -33,6 +33,7 @@ Tijdens de training vormen de kinderen een team met hun therapeut om hun angst t
 
 #### Meer informatie of aanmelden?
 Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
+<br>
 telefoonnummer: 071 527 6673
 <br>
 E-Mail: kiba@fsw.leidenuniv.nl
