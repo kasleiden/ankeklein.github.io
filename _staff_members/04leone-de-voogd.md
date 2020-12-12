@@ -17,6 +17,7 @@ Leone de Voogd is dagelijks projectleider van het SPIL programma en docent bij d
 
 Leone studeerde psychologie en politicologie aan de Universiteit Leiden en promoveerde in 2016 aan de Universiteit van Amsterdam (UvA). Ze deed daar onderzoek naar online training ter preventie van angst en depressie bij jongeren. Voor en tijdens haar onderzoek deed ze ook ervaring op in een psychotherapeutische praktijk voor kinderen en jongeren.  
 Ze werkte korte tijd als postdoc bij de afdeling ontwikkelingspsychologie en vervolgens bij de afdeling sociologie van de UvA, waar ze onderzoek deed naar de rol van psychologische processen bij kansenongelijkheid in het onderwijs. Begin 2018 stapte ze over naar een beleidsfunctie bij de Vereniging Openbaar Onderwijs. Hier hield ze zich bezig met de positie van het openbaar onderwijs, burgerschapsvorming, levensbeschouwing, kansengelijkheid en passend onderwijs.
+
 <br>
 
 #### Huidige functie
