@@ -16,6 +16,8 @@ Anke Klein is universitair docent bij de afdeling Ontwikkelings-en-Onderwijspsyc
 Ze combineerde de studies Pedagogische Wetenschappen en Psychologie en behaalde drie Master titels in de Klinische Orthopedagogiek, Ontwikkelingspsychologie en een tweejarige Research Master bij de Radboud Universiteit. Ze behaalde haar PhD, Cum Laude, over angst bij kinderen aan dezelfde universiteit (Promotoren: Prof. Mike Rinck, Prof. Eni Becker, Prof Susan Bögels). Tijdens haar PhD project werkte ze intensief samen met Prof. Ron Rapee en Prof. Jennifer Hudson en hun groep. Ze werkte een deel van haar tijd in hun lab in het Centre for Emotional Health, Macquarie University, Sydney, Australië.
 Na haar promotie werkte ze als postdoc aan de Universiteit van Amsterdam waar ze samen met Prof. Reinout Wiers en Dhr. Peter Vonk een groot project leidde naar de effectiviteit van een online CGT-behandeling voor studenten met angst en/of depressieve klachten. In 2016 ontving ze een Niels Stensen Fellowship waarmee ze twee jaar aan de Ruhr Universiteit Bochum in Duitsland werkte in het lab van Prof. Silvia Schneider. In 2018 ontving Anke een prestigieuze 5-jarige ZonMw postdoc fellowship om haar eigen onderzoekslijn en onderzoeksgroep op het gebied van angst bij kinderen verder vorm te geven. In 2019 kwam Anke naar Leiden waar ze samenwerkt met de groep van Michiel Westenberg.
 
+<br>
+
 #### Beurzen
 
 Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.2M euro:
@@ -39,6 +41,8 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - 2009 Outgoing Mobility Scholarship, Radboud Universiteit (PI)
 - 2008, 2012, 2014 Erasmus Mundus Travel Fellowships (PI)
 
+<br>
+  
 #### Begeleiding promovendi
 
 - A. Hagen De combinatie van een-sessie behandeling met een app voor het behandelen van kinderen met een specifieke fobie, 2019 - nu
@@ -47,6 +51,8 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - L. Mobach Cognitieve vertekeningen bij kinderen met sociale angst: Meten en behandeluitkomsten, 2017 - nu
 - R. van Niekerk De rol van ouderlijke angst in de overdracht van angst bij kinderen (afgerond)
 
+<br>
+
 #### Registraties
 
 - Basis kwalificatie Onderwijs (BKO)
@@ -54,11 +60,15 @@ Anke heeft verschillende beurzen ontvangen met een totale waarde van meer dan 3.
 - NVO kwalificatie, Nederlandse Vereniging voor Orthopedagogen
 - EBL Creatieve therapie behandeling A, B en C certificaten
 
+<br>
+
 #### Contact
 
 email: a.m.klein@fsw.leidenuniv.nl
 
 tel: +31 71 527 6673
+
+<br>
 
 #### links
 
