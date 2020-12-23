@@ -8,4 +8,4 @@ category: news
 image: /img/kiba-logo12.jpg
 ---
 
-News text 3
+
