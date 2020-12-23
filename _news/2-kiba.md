@@ -9,4 +9,4 @@ image: /img/kiba-logo2.jpg
 members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
 ---
 
-News text 2
+
