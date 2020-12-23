@@ -34,7 +34,6 @@ We ontwikkelen een telefonische hulplijn voor leraren en zorgmedewerkers, worksh
 Met dit programma werken we toe naar een duurzame en structurele samenwerking tussen Leidse scholen en het Kenniscentrum Angst en Stress bij Jeugd. Gezamenlijk werken we aan nieuwe kennis en interventies, die sneller toegepast kunnen worden in het onderwijs.
 
 <br>
-<br>
 
 #### Aanmelden
 
@@ -45,4 +44,5 @@ Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), S
 
 <br>
 
-Download hier de [nieuwsbrief](/pdf/SPIL-nieuwsbrief-dec2020.pdf)
+#### Nieuwbrieven
+[nieuwsbrief december 2020](/pdf/SPIL-nieuwsbrief-dec2020.pdf)
