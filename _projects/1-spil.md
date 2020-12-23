@@ -8,24 +8,23 @@ image: /img/spil4.jpg
 members: [leone, michiel, anika, anke, marjolein]
 ---
 
-
 Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!<br>
 De volgende online focusgroepbijeenkomsten zijn op 14 en 19 januari van 16-18u. Aanmelden via kas@fsw.leidenuniv.nl.
-
 
 <br>
 
 #### Achtergrond
+
 Stress- en angstklachten zijn wereldwijd de meest voorkomende mentale problemen en ontstaan vaak al in de kindertijd. Deze klachten gaan meestal niet vanzelf over en kunnen onbehandeld leiden tot eenzaamheid, andere psychische stoornissen, middelmisbruik, sociale problemen, verslechterde schoolprestaties of schooluitval.
 
 Stress- en angstklachten worden vaak niet tijdig herkend, omdat ze zich uiten in teruggetrokken gedrag, of juist in andere gedragsproblemen of schoolweigering, waarbij niet altijd aan onderliggende angsten gedacht wordt. Wanneer jeugdigen pas hulp krijgen op het moment dat klachten escaleren, is vaak een langdurig en kostbaar behandeltraject nodig, waarvoor bovendien lange wachtlijsten zijn.
 
-Leerlingen met stress- en angstklachten worden hierdoor gehinderd in hun ontwikkeling, zowel binnen als buiten de school. Leraren en zorgmedewerkers willen hen graag ondersteunen, maar missen soms de tijd, ruimte, kennis en vaardigheden om op tijd signalen op te pikken en hier goed mee om te gaan.   
+Leerlingen met stress- en angstklachten worden hierdoor gehinderd in hun ontwikkeling, zowel binnen als buiten de school. Leraren en zorgmedewerkers willen hen graag ondersteunen, maar missen soms de tijd, ruimte, kennis en vaardigheden om op tijd signalen op te pikken en hier goed mee om te gaan.
 
 <br>
 
+#### Doel
 
-#### Doel 
 Het doel van het SPIL-programma is om in nauwe samenwerking met Leidse scholen stress- en angstklachten bij kinderen en jongeren vroegtijdig op te sporen en te verhelpen. Hiermee willen we een veilig leerklimaat en gezonde sociaal-emotionele ontwikkeling stimuleren en schooluitval voorkomen.
 
 We starten met focusgroepen van leraren en zorgmedewerkers uit het primair en voortgezet onderwijs in Leiden, waarin we onderzoeken op welke wijze we het beste tegemoet kunnen komen aan hun ondersteuningsbehoefte. Wat hebben zij nodig aan kennis, training en ondersteuning om effectief met signalen van stress en angst in de klas om te gaan? En wat is er nodig voor hun leerlingen?
@@ -38,12 +37,12 @@ Met dit programma werken we toe naar een duurzame en structurele samenwerking tu
 <br>
 
 #### Aanmelden
-Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) zult u op deze website meer informatie vinden. Wilt u met ons meedenken, meedoen of meer weten? 
+
+Het programma is nog volop in ontwikkeling, dus gedurende de looptijd (2020-2022) zult u op deze website meer informatie vinden. Wilt u met ons meedenken, meedoen of meer weten?
 Neem contact op met dr. Leone de Voogd via e.l.de.voogd@fsw.leidenuniv.nl of 071-527 5464.
 
-
-
-Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, LUBEC (Universiteit Leiden). 
-
+Partners: Gemeente Leiden, Leiden Kennisstad, Leiden Education Fieldlab (LEF), Stedelijk Gymnasium Leiden, Vlietland College, De Singel, LUBEC (Universiteit Leiden).
 
 <br>
+
+Download hier de [nieuwsbrief](/pdf/SPIL-nieuwsbrief-dec2020.pdf)
