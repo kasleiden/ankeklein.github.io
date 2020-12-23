@@ -8,4 +8,4 @@ category: news
 image: /img/corona.jpg
 ---
 
-News text 4
+
