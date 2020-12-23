@@ -4,7 +4,7 @@ layout: teammember
 name: DR. ANKE KLEIN
 title: Hoofd onderzoek & onderwijs
 group: team
-summary: Anke is kindpsychologe en orthopedage en hoofdverantwoordelijk voor onderzoek en onderwijs binnen het kenniscentrum. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
+summary: Anke is kindpsycholoog en orthopedagoog en hoofdverantwoordelijk voor onderzoek en onderwijs binnen het kenniscentrum. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
@@ -71,7 +71,7 @@ tel: +31 71 527 6673
 <br>
 
 #### links
-
+[medewerkerspagina universiteit leiden](https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2)
 https://www.universiteitleiden.nl/medewerkers/anke-klein#tab-2
 
 https://www.linkedin.com/in/ankeklein/?originalSubdomain=nl
