@@ -26,6 +26,8 @@ collections:
     output: true
   projects:
     output: true
+  news:
+    output: true
 
 # Custom vars
 version: 2.0.0

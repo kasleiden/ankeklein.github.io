@@ -28,7 +28,7 @@ title: Home
 
 
 <div class="posts-container">
-  {% for post in site.projects %}
+  {% for post in site.news %}
   {% assign remainder = forloop.index | modulo: 2 %}
   {% if remainder == 1 %}
   <div class="row">
@@ -36,7 +36,7 @@ title: Home
     <div class="column">
       <div class="article">
         <div class="article-head">
-          <a href="{{ site.baseurl }}{{ post.url }}">
+          <a href="{{ site.baseurl }}{{ post.project-url }}">
             <img src="{{ site.url }}{{post.image}}" />
           </a>
         </div>
@@ -61,7 +61,7 @@ title: Home
     <div class="column">
       <div class="article">
         <div class="article-head">
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <a href="{{ site.baseurl }}{{ project-url }}">
               <img src="{{ site.url }}{{post.image}}" />
             </a>
         </div>
