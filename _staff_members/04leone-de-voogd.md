@@ -46,7 +46,7 @@ Op [deze publicatielijst](publicaties-de-voogd-2020.pdf) vind je Leone's overige
 
 e.l.de.voogd@fsw.leidenuniv.nl
 
-[medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/leone-de-voogd#tab-1)
+[medewerkerspagina Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/leone-de-voogd#tab-2)
 
 [linkedin profiel](https://www.linkedin.com/in/leonedevoogd/)
 
