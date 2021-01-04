@@ -38,7 +38,7 @@ de Voogd, L., & Salemink, E. (2017). Leren het leven meer van de zonnige kant te
 
 de Voogd, E.L. (2016). Always look on the bright side of life? The quest for an online cognitive training to prevent adolescent anxiety and depression [proefschrift]. Universiteit van Amsterdam. https://hdl.handle.net/11245/1.545658
 
-Op [deze publicatielijst](publicaties-de-voogd-2020.pdf) vind je Leone's overige publicaties van voordat ze naar Leiden kwam.
+Op [deze publicatielijst](/pdf/publicaties-de-voogd-2020.pdf) vind je Leone's overige publicaties van voordat ze naar Leiden kwam.
 
 <br>
 
