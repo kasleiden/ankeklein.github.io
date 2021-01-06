@@ -2,7 +2,7 @@
 layout: post
 title: Voor scholen
 summary: Informatie en aanbod voor scholen
-permalink: /info/scholen
+permalink: /info/1-training.md
 category: info
 image: /img/spil4.jpg
 members: [leone, michiel, anika, anke, marjolein]
