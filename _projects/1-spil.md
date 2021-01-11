@@ -15,6 +15,7 @@ De volgende online focusgroepbijeenkomsten zijn op 14 en 19 januari van 16-18u. 
 <br>
 
 Radio LEF maakte een podcast over het SPIL-programma: [luister hier.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
+
 <br> 
 
 #### Achtergrond
