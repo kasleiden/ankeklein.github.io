@@ -7,7 +7,7 @@ project-url: /projects/spil
 category: news
 image: /img/spil4.jpg
 ---
-## Nieuws 
+# Nieuws 
 Ben je leraar of zorgmedewerker en wil je met ons meedenken? Meld je nu aan voor de online focusgroepbijeenkomst van 14 of 19 januari van 16-18u. Mail naar: kas@fsw.leidenuniv.nl.
 
 <br>
