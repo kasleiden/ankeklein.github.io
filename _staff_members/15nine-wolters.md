@@ -3,7 +3,7 @@ nameid: nine
 layout: teammember
 name: NINE WOLTERS
 title: junior onderzoeker
-group: alumni
+group: team
 summary: 
 permalink: /team/nine
 image: /img/nine.jpg
