@@ -2,8 +2,8 @@
 nameid: jeanine
 layout: teammember
 name: JEANINE BAARTMANS
-title: Alumnus
-group: alumni
+title: PhD student
+group: team
 summary: 
 permalink: /team/jeanine
 image: /img/jeanine.jpg
