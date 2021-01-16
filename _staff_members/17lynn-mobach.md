@@ -2,8 +2,8 @@
 nameid: lynn
 layout: teammember
 name: LYNN MOBACH
-title: Alumnus
-group: alumni
+title: PhD student
+group: team
 summary: 
 permalink: /team/lynn
 image: /img/lynn.jpg
