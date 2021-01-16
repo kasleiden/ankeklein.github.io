@@ -3,7 +3,7 @@ nameid: rianne
 layout: teammember
 name: DR. RIANNE VAN NIEKERK
 title: Alumnus
-group: alumni
+group: team
 summary: 
 permalink: /team/rianne
 image: /img/rianne.jpg
