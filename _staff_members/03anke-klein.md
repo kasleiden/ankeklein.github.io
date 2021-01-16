@@ -2,9 +2,9 @@
 nameid: anke
 layout: teammember
 name: DR. ANKE KLEIN
-title: Hoofd onderzoek & onderwijs
+title: Principal investigator
 group: team
-summary: Anke is kindpsycholoog en orthopedagoog en hoofdverantwoordelijk voor onderzoek en onderwijs binnen het kenniscentrum. Daarnaast is ze universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
+summary: Anke is universitair docent bij de afdeling Ontwikkelings- en Onderwijspychologie aan de universiteit Leiden.
 permalink: /team/anke
 image: /img/anke2.jpg
 ---
