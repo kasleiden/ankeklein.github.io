@@ -2,7 +2,7 @@
 nameid: Selina
 layout: teammember
 name: SELINA BURGARD
-title: Stagiaire 
+title: Junior onderzoeker 
 group: team
 summary: Selina studeert kind- en jeugdpsychologie aan de Universiteit Utrecht en loopt stage bij het KIBA-project.
 permalink: /team/selina
