@@ -2,7 +2,7 @@
 nameid: geraly
 layout: teammember
 name: GERALY BIJSTERBOSCH
-title: buitenpromovenda
+title: buitenpromovendus
 group: team
 summary: 
 permalink: /team/geraly
