@@ -2,7 +2,7 @@
 nameid: nine
 layout: teammember
 name: NINE WOLTERS
-title: junior onderzoeker
+title: PhD student
 group: team
 summary: Nine haar onderzoek richt zich op eenzaamheid en sociale isolatie in relatie tot mentale gezondheid (sociale angst en depressie) in jongvolwassenen en ouderen. 
 permalink: /team/nine
