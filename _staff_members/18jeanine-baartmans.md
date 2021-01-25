@@ -2,7 +2,7 @@
 nameid: jeanine
 layout: teammember
 name: JEANINE BAARTMANS
-title: PhD student
+title: Alumnus
 group: team
 summary: Jeanine deed haar promotieonderzoek over angst bij kinderen aan de Universiteit van Amsterdam en UvAminds en werd begeleid door Prof. Susan Bögels, Prof. Reinout Wiers, Dr. Bonny van Steensel en Dr. Anke Klein (dagelijks begeleider)
 permalink: /team/jeanine
