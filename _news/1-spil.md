@@ -8,6 +8,6 @@ category: news
 image: /img/spil4.jpg
 ---
 #### Nieuws 
-Op 1 februari gaat onze telefonische hulplijn voor leerkrachten en zorgmedewerkers van start.
+Op 1 februari gaat onze telefonische hulplijn voor leerkrachten en zorgmedewerkers van start. We zijn dan dagelijks bereikbaar op 071-5275464 voor alle vragen over leerlingen met angst.
 
 [Luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w) de podcast van Radio LEF over het SPIL-programma. 
