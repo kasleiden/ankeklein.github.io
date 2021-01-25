@@ -5,7 +5,7 @@ summary:
 permalink: /news/corona
 project-url: /team/jeanine
 category: news
-image: /img/jeanine-promotie.jpg
+image: /img/jeanine-promotie1.jpg
 ---
 Op woensdag 3 februari van 13.00 tot 14.30 is hier de promotieceremonie van dhr. J.M.D. Baartmans live te volgen. N.B. tussen 14.00 en 14.15 is de commissie in beraad en wordt de stream gepauzeerd. 
 <br>
