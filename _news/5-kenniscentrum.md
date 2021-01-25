@@ -7,8 +7,5 @@ project-url: /projects/kas
 category: news
 image: /img/banner-KAS-project.jpg
 ---
-#### Nieuws 
-[Luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w) de podcast van Radio LEF over het SPIL-programma. 
 
-<br>
 [klik hier](https://kasleiden.nl)om naar de website van het kenniscentrum te gaan. 
