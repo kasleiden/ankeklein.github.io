@@ -8,4 +8,6 @@ category: news
 image: /img/spil4.jpg
 ---
 #### Nieuws 
+Op 1 februari gaat onze telefonische hulplijn voor leerkrachten en zorgmedewerkers van start.
+
 [Luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w) de podcast van Radio LEF over het SPIL-programma. 
