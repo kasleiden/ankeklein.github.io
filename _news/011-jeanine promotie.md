@@ -3,7 +3,7 @@ layout: post
 title: Promotie Jeanine Baartmans
 summary:
 permalink: /news/corona
-project-url: /team/18jeanine-baartmans
+project-url: /team/jeanine
 category: news
 image: /img/jeanine-promotie.jpg
 ---
