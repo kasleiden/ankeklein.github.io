@@ -3,7 +3,7 @@ layout: post
 title: Promotie Jeanine Baartmans
 summary: Op 3 februari promoveert Jeanine Baartmans op het gebied van angst bij kinderen.[Klik hier] https://www.uva.nl/content/evenementen/promoties/2021/02/sociale-angst-bij-kinderen-wat-nu.html?origin=YseAnEVVQ%2B6Ok8JyAViw%2Fg voor meer informatie
 permalink: /news/corona
-project-url: /projects/corona
+project-url: /team/jeanine
 category: news
 image: /img/jeanine-promotie.jpg
 ---
