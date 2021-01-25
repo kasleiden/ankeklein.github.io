@@ -17,4 +17,6 @@ Wednesday 3 February from 13.00 until 14.30 CET the PhD defence ceremony of mr. 
 
 [click here] (https://www.youtube.com/watch?v=7ONrRQ7Z4uQ&feature=youtu.be&ab_channel=UvAPromotieceremonies) for the livestream.
 
-[Luister hier](https://www.uva.nl/content/evenementen/promoties/2021/02/sociale-angst-bij-kinderen-wat-nu.html?origin=YseAnEVVQ%2B6Ok8JyAViw%2Fg) de podcast van Radio LEF over het SPIL-programma. 
+[click here](https://www.youtube.com/watch?v=7ONrRQ7Z4uQ&feature=youtu.be&ab_channel=UvAPromotieceremonies) for the livestream.
+
+[click here](https://www.uva.nl/content/evenementen/promoties/2021/02/sociale-angst-bij-kinderen-wat-nu.html?origin=YseAnEVVQ%2B6Ok8JyAViw%2Fg) for more information.
