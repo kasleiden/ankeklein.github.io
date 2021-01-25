@@ -8,6 +8,4 @@ category: news
 image: /img/spil4.jpg
 ---
 #### Nieuws 
-Ben je leraar of zorgmedewerker en wil je met ons meedenken? Meld je aan voor de online focusgroepbijeenkomst van 14 of 19 januari van 16-18u. Mail naar: kas@fsw.leidenuniv.nl.
-
 [Luister hier](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w) de podcast van Radio LEF over het SPIL-programma. 
