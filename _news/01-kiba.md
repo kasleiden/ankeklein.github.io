@@ -6,7 +6,7 @@ permalink: /news/kiba
 project-url: /projects/kiba
 category: news
 image: /img/banner-kiba-nl.jpg
-members: [michiel, anke, annelieke, recep, yolinda, amal, fabienne]
+members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 ---
 
 
