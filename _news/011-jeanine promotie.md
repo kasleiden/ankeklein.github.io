@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Promotie Jeanine Baartmans
-summary: Op 3 februari promoveert Jeanine Baartmans op het gebied van angst bij kinderen.
+summary:
 permalink: /news/corona
 project-url: /team/18jeanine-baartmans
 category: news
