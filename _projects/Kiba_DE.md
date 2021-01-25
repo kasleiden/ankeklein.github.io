@@ -2,7 +2,7 @@
 layout: post
 title: Kinder bewältigen Angst - Das KIBA Projekt
 summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
-permalink: /projects/kiba
+permalink: /projects/kiba-de
 category: project
 image: /img/kiba-logo2.jpg
 members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
