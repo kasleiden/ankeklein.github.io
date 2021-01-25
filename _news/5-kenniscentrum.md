@@ -8,4 +8,4 @@ category: news
 image: /img/banner-KAS-project.jpg
 ---
 
-[klik hier](https://kasleiden.nl)om naar de website van het kenniscentrum te gaan. 
+[klik hier](https://kasleiden.nl) om naar de website van het kenniscentrum te gaan. 
