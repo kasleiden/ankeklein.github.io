@@ -8,4 +8,4 @@ category: news
 image: /img/corona.jpg
 ---
 
-
+[klik hier](https://www.universiteitleiden.nl/nieuws/2020/04/anke-klein-in-de-media) voor meer informatie over angst rondom Corona.
