@@ -7,7 +7,7 @@ group: blog
 category: blog
 ---
 
-International peer-reviewed publications
+**International peer-reviewed publications**
 <br>
 Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
 
