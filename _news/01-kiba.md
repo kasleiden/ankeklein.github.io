@@ -8,5 +8,3 @@ category: news
 image: /img/banner-kiba-nl.jpg
 members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 ---
-
-

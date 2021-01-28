@@ -30,6 +30,8 @@ collections:
     output: true
   info:
     output: true  
+  blog:
+    output: true  
 
 # Custom vars
 version: 2.0.0
