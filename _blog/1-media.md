@@ -8,11 +8,13 @@ category: blog
 ---
 
 International peer-reviewed publications
-Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of 
-Behavior Development.
+Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
+<br>
 Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., 
 Rapee, R. M., Magson, N., Bögels, S. M., Rinck, M., & Klein, A. M. (2020). Social anxiety and perceptions of likeability by peers in children. British Journal of Developmental Psychology.
+<br>
 Mobach, L., Klein, A. M., Schniering, C. A., & Hudson, J. L. (in press). Specificity of dysfunctional beliefs in children with social anxiety disorder: effects of comorbidity. Journal of Clinical Child and Adolescent Psychology. 
+
 Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Bolinski, F., Burger, S., Batelaan, N., van der Heijde, C., Vonk, P., Kleiboer, A., Wiers, R. W., & Cuijpers, P. (2020). Examining the effectiveness of a web-based intervention for symptoms of depression and/or anxiety: Study protocol of a randomized controlled trial. BMJ Open.
 Klein, A. M., Rapee, R. M., Hudson, J. F., Morris, T. M., Schneider, S. C., Schniering, C. A., Becker, E. S., & Rinck, M. (2019). Content-specific interpretation biases in clinically anxious children. Behaviour Research and Therapy, 121, 103452
 Baartmans, J. M. D., Rinck, M., Hudson, J. L., Lansu, T. A. M., van Niekerk, R. E., Bögels, S. M., & Klein, A. M. (2019). Are socially anxious children really less liked, or do they only think so? Cognitive Therapy and Research, 43, 1043-1050.
