@@ -16,4 +16,4 @@ Wednesday 3 February from 13.00 until 14.30 CET the PhD defence ceremony of mr. 
 
 [click here](https://www.uva.nl/content/evenementen/promoties/2021/02/sociale-angst-bij-kinderen-wat-nu.html?origin=YseAnEVVQ%2B6Ok8JyAViw%2Fgs) for more information about the defense.
 
-[click here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjsp-fL0rfuAhVB6qQKHf3sBK4QFjARegQIExAC&url=https%3A%2F%2Fpure.uva.nl%2Fws%2Ffiles%2F54463247%2FFront_matter.pdf&usg=AOvVaw1ldbwbchAINBWFH23sx_He) to download her dissertation.
+[click here](https://www.publicatie-online.nl/publicaties/jeanine-baartmans) to download her dissertation. The code is 147604.
