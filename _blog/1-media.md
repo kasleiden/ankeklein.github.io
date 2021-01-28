@@ -9,31 +9,31 @@ category: blog
 
 **International peer-reviewed publications**
 <br>
--Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
+Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
 
--Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., 
+Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., 
 Rapee, R. M., Magson, N., Bögels, S. M., Rinck, M., & Klein, A. M. (2020). Social anxiety and perceptions of likeability by peers in children. British Journal of Developmental Psychology.
 
--Mobach, L., Klein, A. M., Schniering, C. A., & Hudson, J. L. (in press). Specificity of dysfunctional beliefs in children with social anxiety disorder: effects of comorbidity. Journal of Clinical Child and Adolescent Psychology. 
+Mobach, L., Klein, A. M., Schniering, C. A., & Hudson, J. L. (in press). Specificity of dysfunctional beliefs in children with social anxiety disorder: effects of comorbidity. Journal of Clinical Child and Adolescent Psychology. 
 
--Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Bolinski, F., Burger, S., Batelaan, N., van der Heijde, C., Vonk, P., Kleiboer, A., Wiers, R. W., & Cuijpers, P. (2020). Examining the effectiveness of a web-based intervention for symptoms of depression and/or anxiety: Study protocol of a randomized controlled trial. BMJ Open.
+Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Bolinski, F., Burger, S., Batelaan, N., van der Heijde, C., Vonk, P., Kleiboer, A., Wiers, R. W., & Cuijpers, P. (2020). Examining the effectiveness of a web-based intervention for symptoms of depression and/or anxiety: Study protocol of a randomized controlled trial. BMJ Open.
 
--Klein, A. M., Rapee, R. M., Hudson, J. F., Morris, T. M., Schneider, S. C., Schniering, C. A., Becker, E. S., & Rinck, M. (2019). Content-specific interpretation biases in clinically anxious children. Behaviour Research and Therapy, 121, 103452.
+Klein, A. M., Rapee, R. M., Hudson, J. F., Morris, T. M., Schneider, S. C., Schniering, C. A., Becker, E. S., & Rinck, M. (2019). Content-specific interpretation biases in clinically anxious children. Behaviour Research and Therapy, 121, 103452.
 
--Baartmans, J. M. D., Rinck, M., Hudson, J. L., Lansu, T. A. M., van Niekerk, R. E., Bögels, S. M., & Klein, A. M. (2019). Are socially anxious children really less liked, or do they only think so? Cognitive Therapy and Research, 43, 1043-1050.
+Baartmans, J. M. D., Rinck, M., Hudson, J. L., Lansu, T. A. M., van Niekerk, R. E., Bögels, S. M., & Klein, A. M. (2019). Are socially anxious children really less liked, or do they only think so? Cognitive Therapy and Research, 43, 1043-1050.
 
--Mobach, L., Rinck, M., Becker, E. S., Hudson, J. L., & Klein, A. M. (2019). Content-specific interpretation 
+Mobach, L., Rinck, M., Becker, E. S., Hudson, J. L., & Klein, A. M. (2019). Content-specific interpretation 
 bias in children with varying levels of anxiety: The role of gender and age. Child Psychiatry & Human Development, 50, 803-814.
 
--Verpaalen, I. A. M., Bijsterbosch, G. G., Mobach, L., Bijlstra, G., Rinck, M., & Klein, A.M. (2019). Validating the Radboud Faces Database from a child’s perspective. Cognition and Emotion, 8. 1531-1547.
+Verpaalen, I. A. M., Bijsterbosch, G. G., Mobach, L., Bijlstra, G., Rinck, M., & Klein, A.M. (2019). Validating the Radboud Faces Database from a child’s perspective. Cognition and Emotion, 8. 1531-1547.
 
--Klein, A. M., Bakens, R., van Niekerk, R.E., Ouwens, M. A., Rapee, R. M., Bögels, S. M., Becker, E. S., & Rinck, M. (2018). Children with generalized anxiety disorder symptoms show a content-specific interpretation bias using auditory stimuli. Journal of Behavior Therapy and Experimental Psychiatry, 61, 121-127.
+Klein, A. M., Bakens, R., van Niekerk, R.E., Ouwens, M. A., Rapee, R. M., Bögels, S. M., Becker, E. S., & Rinck, M. (2018). Children with generalized anxiety disorder symptoms show a content-specific interpretation bias using auditory stimuli. Journal of Behavior Therapy and Experimental Psychiatry, 61, 121-127.
 
--Van Niekerk, R. E., Klein, A. M.*, Allart, E., Rinck, M., Hutschemaekers, G. & Becker, E. S. (2018). Interpretation bias as vulnerability factor for children at risk for developing an anxiety disorder. Journal of the American Academy of Child and Adolescent Psychiatry, 57, 462-470. * shared first author
+Van Niekerk, R. E., Klein, A. M.*, Allart, E., Rinck, M., Hutschemaekers, G. & Becker, E. S. (2018). Interpretation bias as vulnerability factor for children at risk for developing an anxiety disorder. Journal of the American Academy of Child and Adolescent Psychiatry, 57, 462-470. * shared first author
 
--Klein, A. M., Salemink, E., De Hullu, E., Houtkamp, E. O., Papa, M., & Van der Molen, M. J. (2018). Cognitive bias modification reduces social anxiety symptoms in socially anxious adolescents with mild intellectual disabilities: A randomized controlled trial. Journal of Autism and Developmental Disorders, 48, 3116-3126. 
+Klein, A. M., Salemink, E., De Hullu, E., Houtkamp, E. O., Papa, M., & Van der Molen, M. J. (2018). Cognitive bias modification reduces social anxiety symptoms in socially anxious adolescents with mild intellectual disabilities: A randomized controlled trial. Journal of Autism and Developmental Disorders, 48, 3116-3126. 
 
--Klein, A. M., Flokstra, E., van Niekerk, R., Klein. S., Rapee, R. M., Hudson, J. L., Bögels, S. M., Becker, E. S., & Rinck, M. (2018). Self-reports, behavior and interpretation biases in children with varying levels of anxiety. Child Psychiatry & Human Development, 49, 897-905.
+Klein, A. M., Flokstra, E., van Niekerk, R., Klein. S., Rapee, R. M., Hudson, J. L., Bögels, S. M., Becker, E. S., & Rinck, M. (2018). Self-reports, behavior and interpretation biases in children with varying levels of anxiety. Child Psychiatry & Human Development, 49, 897-905.
 
 Klein, A. M., Houtkamp, E. O., Salemink E., Baartmans, J. M. D., Rinck, M., & van der Molen, M. J. (2018). Differences between self- and peer-rated likability in relation to social anxiety and depression in adolescents with mild intellectual disabilities. Research in Developmental disabilities, 80, 44-51.
 
