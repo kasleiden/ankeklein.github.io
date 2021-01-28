@@ -28,8 +28,7 @@ Verpaalen, I. A. M., Bijsterbosch, G. G., Mobach, L., Bijlstra, G., Rinck, M., &
 
 Klein, A. M., Bakens, R., van Niekerk, R.E., Ouwens, M. A., Rapee, R. M., Bögels, S. M., Becker, E. S., & Rinck, M. (2018). Children with generalized anxiety disorder symptoms show a content-specific interpretation bias using auditory stimuli. Journal of Behavior Therapy and Experimental Psychiatry, 61, 121-127.
 
-Van Niekerk, R. E., Klein, A. M.*, Allart, E., Rinck, M., Hutschemaekers, G. & Becker, E. S. (2018). Interpretation bias as vulnerability factor for children at risk for developing an anxiety disorder. Journal of the American Academy of Child and Adolescent Psychiatry, 57, 462-470.
-* shared first author
+Van Niekerk, R. E., Klein, A. M.*, Allart, E., Rinck, M., Hutschemaekers, G. & Becker, E. S. (2018). Interpretation bias as vulnerability factor for children at risk for developing an anxiety disorder. Journal of the American Academy of Child and Adolescent Psychiatry, 57, 462-470. * shared first author
 
 Klein, A. M., Salemink, E., De Hullu, E., Houtkamp, E. O., Papa, M., & Van der Molen, M. J. (2018). Cognitive bias modification reduces social anxiety symptoms in socially anxious adolescents with mild intellectual disabilities: A randomized controlled trial. Journal of Autism and Developmental Disorders, 48, 3116-3126. 
 
