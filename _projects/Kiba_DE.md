@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kinder bewältigen Angst - Das KIBA Projekt
-summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
+summary: Leidest du unter einer Phobie? Hast du zum Beispiel Höhenangst, Angst im Dunkeln, Angst vor Hunden, Spinnen, Spritzen oder Gewitter? Dann isr das KIBA Training vielleicht etwas für dich! 
 permalink: /projects/kiba-de
 category: project
 image: /img/banner-kiba-de.jpg
@@ -9,32 +9,32 @@ members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 ---
 
 <br>
-Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
+Leidest du unter einer Phobie? Hast du zum Beispiel Höhenangst, Angst im Dunkeln, Angst vor Hunden, Spinnen, Spritzen oder Gewitter? Dann isr das KIBA Training vielleicht etwas für dich! 
 
 <br>
 
 #### Hintergrund
-Kinderen met een specifieke fobie zijn heel bang voor bepaalde voorwerpen, dieren of situaties. Sommige kinderen zijn bijvoorbeeld erg bang voor spinnen, honden, wespen, harde geluiden, het krijgen van een prik, hoogtes of kleine ruimtes. Veel kinderen hebben last van een specifieke fobie, en dat kan het leven thuis, op school en daarbuiten best moeilijk maken. 
+Kinder mit einer spezifischen Phobie haben große Angst vor bestimmten Gegenständen, Tieren oder Situationen. Manche Kinder haben zum Beispiel Ansgt vor Spinnen, Hunden, Wespen, lauten Geräuschen, Spritzen oder kleinen Räumen. So eine Phobie kann einem Kind  das Leben Zuhause und in der Schule ganz schön schwer machen. 
 
 <br> 
 
-#### Voor wie?
-Kinderen tussen de 7 – 14 jaar kunnen vanaf nu terecht op drie locaties in Nederland (LUBEC te Leiden, UvA minds te Amsterdam & Accare, te Groningen) voor diagnostiek en behandeling. Deze instellingen (en een instelling in Duitsland) werken, samen met een groot internationaal team, aan wetenschappelijk onderzoek om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
+#### Für wen?
+Kinder zwischen 7 und 14 Jahren können sich sofort bei einem unserer drei Standorte in den Niederlanden (LUBEC in Leiden, UvA in Amsterdam und Accare in Groningen) für Diagnose und Behandlung anmelden. Die Behandelzentren in den Niederlanden (und ein Behandelzentrum in Deutschland arbeiten gemeinsam mit einem internationalen Team an einem Forschungsprojekt, um Kindern mit spezifischen Phobien die best mögliche Behandlung zukommen zu lassen. Beim KIBA training wird eine Behandlung angeboten, von der bekannt ist, dass sie den meisten Kindern mit spezifischen Phobien hilft.
 
 <br> 
 
 
-#### Over de training
-In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën bij kinderen nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een trainingsprogramma met een mobiele app – ondersteunt door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
+#### Über das KIBA training
+Mit unserem Forschungsprojekt wollen wir untersuchen, ob wir die Behandlung von Kindern mit spezifischen Phobien mit einem Übungsprogramm für Zuhause noch weiter verbessern können. Wir vergleichen hierfür ein Trainingsprogramm das mit Hilfe einer App funktioniert (unterstützt von einem Therapeuten) mit einem Trainigsprogramm in dem der Therapeut selbst Anweisungen gibt. Es wird ausgelost, welches Kind an welchem Trainingsprogramm teilnimmt. Wenn Sie und Ihr Kind an der Studie teilnehmen , kommen Sie insgesamt 7 mal zu einem unserer Behandelzentren. Die Teilnahme an der Studie ist gratis.  
 
-Tijdens de training vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
+Während dem Trainingsprogramm formt das Kind gemeinsam mit dem seinem Therapeut ein Team um  die Ansgt zu besiegen. Ihr Kind lernt viel über die Situation, vor der es solche Angst hat und wie es mit dieser Angst umgehen kann. Schritt für Schritt lernen die Kinder, ihre Ängste zu bewältigen und schwierige Situationen in den griff zu bekommen.
 
 <br> 
 
-#### Meer informatie of aanmelden?
-Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
+#### Mehr Information oder Anmeldung?
+Für mehr Informationen oder für eine Anmeldung zur Teilnahme an der Studie sind wir täglich telefonisch oder per Mail erreichbar. 
 <br>
-telefoonnummer: 071 527 6673
+Telefonnummer: 071 527 6673
 <br>
 E-Mail: kiba@fsw.leidenuniv.nl
 
