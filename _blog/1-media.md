@@ -10,6 +10,7 @@ category: blog
 
 <br>
 **Publications**
+<br>
 Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
 
 Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., Rapee, R. M., Magson, N., Bögels, S. M., Rinck, M., & Klein, A. M. (2020). Social anxiety and perceptions of likeability by peers in children. British Journal of Developmental Psychology.
@@ -73,6 +74,7 @@ In-Albon, T., Klein, A., Rinck, M., Becker, E., & Schneider, S. (2008). Developm
 
 
 **Conference abstracts**
+<br>
 Klein, A.M. & Bijsterbosch, G. (2019). Validating the Radboud Faces Database by children and the relation with social anxiety. Paper presentation and convenor of symposium, 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, Germany.
 
 Klein, A. M. & Baartmans, J. (2019). The role of cognitive biases in childhood specific phobias and future directions for improving treatment. Paper presentation and co-convenor of symposium, 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, Germany.
