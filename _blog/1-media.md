@@ -7,16 +7,19 @@ group: blog
 category: blog
 ---
 
-**International peer-reviewed publications**
+
 <br>
+**Publications**
 Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
 
-Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., 
-Rapee, R. M., Magson, N., Bögels, S. M., Rinck, M., & Klein, A. M. (2020). Social anxiety and perceptions of likeability by peers in children. British Journal of Developmental Psychology.
+Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., Rapee, R. M., Magson, N., Bögels, S. M., Rinck, M., & Klein, A. M. (2020). Social anxiety and perceptions of likeability by peers in children. British Journal of Developmental Psychology.
 
-Mobach, L., Klein, A. M., Schniering, C. A., & Hudson, J. L. (in press). Specificity of dysfunctional beliefs in children with social anxiety disorder: effects of comorbidity. Journal of Clinical Child and Adolescent Psychology. 
+Mobach, L., Klein, A. M., Schniering, C. A., & Hudson, J. L. (2020). Specificity of dysfunctional beliefs in children with social anxiety disorder: effects of comorbidity. Journal of Clinical Child and Adolescent Psychology. 
 
 Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Bolinski, F., Burger, S., Batelaan, N., van der Heijde, C., Vonk, P., Kleiboer, A., Wiers, R. W., & Cuijpers, P. (2020). Examining the effectiveness of a web-based intervention for symptoms of depression and/or anxiety: Study protocol of a randomized controlled trial. BMJ Open.
+
+Klein, A. M., Nauta, M., & Ollendick. Th. (2020). Kortdurende intensieve behandeling voor kinderen met 
+een specifieke fobie: één-sessie behandeling. In C. Braet & S. M. Bögels (Eds.), Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten deel III (pp. 547-603). [Short intensive treatment for children with a specific phobia: one-session-treatment. In: Protocol treatments for children and adolescents with psychological problems part III]. Amsterdam: Boom Uitgevers.
 
 Klein, A. M., Rapee, R. M., Hudson, J. F., Morris, T. M., Schneider, S. C., Schniering, C. A., Becker, E. S., & Rinck, M. (2019). Content-specific interpretation biases in clinically anxious children. Behaviour Research and Therapy, 121, 103452.
 
@@ -47,6 +50,8 @@ Klein, A. M., Van Niekerk, R. E., ten Brink, G., Rapee, R. M., Hudson, J. L., B�
 
 Klein, A. M., van Niekerk, R. E., Baartmans, J. M. D., Rinck, M., & Becker, E. S. (2017). The spider anxiety and disgust screening for children (SADS-C): Reliability and validity of a screening for children. Australian Journal of Psychology, 69, 178-183. 
 
+Klein, A. M. (2016, February 10; Cum Laude). Unraveling the Web of Cognitions; Cognitive biases and fear-related behavior in childhood anxiety. Radboud University Nijmegen (250 pages). Prom./coprom: Prof. Dr. E.S. Becker, Prof. Dr. S. M. Bögels, & Prof. Dr. M. Rinck.
+
 Klein, A. M., Rapee, R. M., Hudson, J. L., Schniering, C. A., Wuthrich, V., Kangas, M., Lyneham, H., & Rinck, M. (2015). Interpretation modification training reduces interpretation bias and anxiety in clinically anxious children. Behaviour Research and Therapy, 75, 78-84.
 
 Klein, A. M., Titulaer, G., Simons, C., Allart, E., de Gier, E., Bögels, S. M., Becker, E. S., & Rinck, M. (2014). Biased interpretation and memory in spider fearful children. Cognition and Emotion, 28, 182-192.
@@ -57,23 +62,14 @@ Klein, A. M., Becker, E. S., & Rinck, M. (2011). Approach and avoidance tendenci
 
 Klein, A. M., Becker, E. S., & Rinck, M. (2011). Direct and indirect measures of spider fear predict unique variance in children’s fear-related behavior. Cognition and Emotion, 25, 1205 – 2013.
 
-In-Albon, T., Klein, A., Rinck, M., Becker, E., & Schneider, S. (2008). Development and evaluation of a new paradigm for the assessment of anxiety disorder-specific interpretation bias using picture stimuli. Cognition and Emotion, 22, 422-436.
+Honingh, E. & Klein, A. M. (2010). Ook passend onderwijs voor (hoog)begaafde leerlingen [Gifted students deserve suitable education too]. Odion magazine, 1, 13-15. 
 
-
-**National publications**
-Honingh, E. & Klein, A. M. (2010). Ook passend onderwijs voor (hoog)begaafde leerlingen [Gifted students 
-     deserve suitable education too]. Odion magazine, 1, 13-15. 
 Honingh, T. & Klein, A. M. (2009). Met OGO vooruit. Onderzoek naar (hoog)begaafdheid en ontwikkelingsgericht onderwijs [Developmental Education: The relation between (highly)giftedness and developmental education]. Zone, 1, 27.
+
 Honingh, T. & Klein, A. M. (2009). OGO, perspectief voor (hoog)begaafde leerlingen [Developmental education: suitable alternative for (highly) gifted children]. Zone, 1, 20-22.
 
-**Dissertation**
-Klein, A. M. (2016, February 10; Cum Laude). Unraveling the Web of Cognitions; Cognitive biases  
-     and fear-related behavior in childhood anxiety. Radboud University Nijmegen (250 pages).  
-     Prom./coprom: Prof. Dr. E.S. Becker, Prof. Dr. S. M. Bögels, & Prof. Dr. M. Rinck.
+In-Albon, T., Klein, A., Rinck, M., Becker, E., & Schneider, S. (2008). Development and evaluation of a new paradigm for the assessment of anxiety disorder-specific interpretation bias using picture stimuli. Cognition and Emotion, 22, 422-436.
 
-**Book chapter**
-Klein, A. M., Nauta, M., & Ollendick. Th. (2020). Kortdurende intensieve behandeling voor kinderen met 
-een specifieke fobie: één-sessie behandeling. In C. Braet & S. M. Bögels (Eds.), Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten deel III (pp. 547-603). [Short intensive treatment for children with a specific phobia: one-session-treatment. In: Protocol treatments for children and adolescents with psychological problems part III]. Amsterdam: Boom Uitgevers.
 
 
 **Conference abstracts**
@@ -83,8 +79,7 @@ Klein, A. M. & Baartmans, J. (2019). The role of cognitive biases in childhood s
 
 Klein, A.M. & Salemink, E. (2019). Cognitive bias modification reduces social anxiety symptoms in socially anxious adolescents with mild intellectual disabilities. Paper presentation at 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, Germany.
 
-Baartmans, J.M.D., Van Steensel, F.J.A., Klein, A.M., & Bögels, S.M. (2019). Does comorbid depression play an important role in the effectiveness of cognitive behavioral therapy for childhood social anxiety? Paper presentation at 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, 
-   Germany.
+Baartmans, J.M.D., Van Steensel, F.J.A., Klein, A.M., & Bögels, S.M. (2019). Does comorbid depression play an important role in the effectiveness of cognitive behavioral therapy for childhood social anxiety? Paper presentation at 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, Germany.
 
 Mobach, L., Rinck, M., Carl, T., Becker, E. S., Rapee, R. M., Klein, A. M., & Hudson, J. L. (2019). Facial emotion processing and social anxiety: Social skills deficit or negative Interpretation? Paper presentation at 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, Germany.
 
@@ -96,8 +91,7 @@ Wolters, N. E., Klein, A. M., Wuthrich, V. M., van der Heijde, C. M., Vonk, P., 
 
 Baartmans, J.M.D., Klein, A.M., Van Steensel, F.J.A., Lansu, T.A.M., Bögels, S.M., Rapee, R., Rinck, M. (2019). Childhood social anxiety and (perceptions of) likeability and friendship within their class. Poster presentation at 9th World Congress of Behavioural and Cognitive Therapies (WCBCT, 2019), Berlin, Germany.
 
-Klein, A., Ollendick, T., Nauta, M., Rapee, R., Bögels, S., Rinck, M., Adolph, D., Westenberg, M., Hagen, A., Wiers, R., Vonk, P. & Schneider, S. (2019) Development of a smartphone app for support of one-session treatment of specific phobia in children. Poster presentation at Pre-Conference Symposium on Childhood 
-   Anxiety, Bochum, Germany.
+Klein, A., Ollendick, T., Nauta, M., Rapee, R., Bögels, S., Rinck, M., Adolph, D., Westenberg, M., Hagen, A., Wiers, R., Vonk, P. & Schneider, S. (2019) Development of a smartphone app for support of one-session treatment of specific phobia in children. Poster presentation at Pre-Conference Symposium on Childhood Anxiety, Bochum, Germany.
 
 Becker, E. S., Henricks, L., Pouwels, L., Lansu, T., Lange, W.G., & Klein, A. M. (2019). Prospective Associations between Social Status and Social Anxiety in Early Adolescence. Poster presentation at Pre-Conference Symposium on Childhood Anxiety, Bochum, Germany.
 
@@ -105,13 +99,11 @@ Baartmans, J.M.D., Van Steensel, F.J.A., Zwitser, R.J., Klein, A.M., & Bögels, 
 
 Mobach, L., Klein, A. M., Schniering, C., & Hudson, J. L. (2019). Specificity of dysfunctional beliefs in children with social anxiety disorder: Effects of comorbidity. Poster presentation at Pre-Conference Symposium on Childhood Anxiety, Bochum, Germany.
 
-Hendricks, L. A., Pouwels, L., Lansu, T., Lange, W. G., Becker, E. S., & Klein, A. M. (2019). Prospective associations between social anxiety and social status in early adolescence. Paper presentation at the first official European Congress on Clinical Psychology and Psychological Treatment (EACLIPT), Dresden,  
-   Germany.
+Hendricks, L. A., Pouwels, L., Lansu, T., Lange, W. G., Becker, E. S., & Klein, A. M. (2019). Prospective associations between social anxiety and social status in early adolescence. Paper presentation at the first official European Congress on Clinical Psychology and Psychological Treatment (EACLIPT), Dresden, Germany.
 
 Mobach, L., Klein, A. M., Schniering, C. A., & Hudson, J. L. (2019). Specificiteit van disfunctionele assumpties bij kinderen met sociale angst: De rol van comorbiditeit. [Specificity and disfunctional assumption in children with social anxiety: The role of co-morbidity.] Paper presentation at VGCt, Veldhoven, The Netherlands.
 
-Baartmans, J.M.D., Van Steensel, F.J.A., Zwitser, R.J., Klein, A.M., & Bögels, S.M. (2019). De rol van depressie en ouderlijke angst in de effectiviteit van CGT voor kinderen met een sociale angststoornis en andere angststoornissen [The role of depression and parental anxiety in the effectiveness of CBT for children 
-   with a social anxiety disorder and other disorders]. Paper presentation at VGCt, Veldhoven, The Netherlands.
+Baartmans, J.M.D., Van Steensel, F.J.A., Zwitser, R.J., Klein, A.M., & Bögels, S.M. (2019). De rol van depressie en ouderlijke angst in de effectiviteit van CGT voor kinderen met een sociale angststoornis en andere angststoornissen [The role of depression and parental anxiety in the effectiveness of CBT for children with a social anxiety disorder and other disorders]. Paper presentation at VGCt, Veldhoven, The Netherlands.
 
 Baartmans, J.M.D., Klein, A.M., Van Steensel, F.J.A., Pouwels, J.L., Lansu, T.A.M., & Rinck, M. (2019). Maken sociaal angstige adolescenten zich terecht zorgen over hun sociale positie in de klas? [Should socially anxious children indeed worry about their social position within the classroom?]. Paper presentation at VGCt, Veldhoven, The Netherlands. 
 
