@@ -1,7 +1,7 @@
 ---
 nameid: robin
 layout: teammember
-name: ROBIN
+name: ROBIN Zimmermann
 title: Wissenschaftlicher Mitarbeiter
 group: collaborator
 summary:Robin übernimmt als wissenschaftlicher Mitarbeiter die Organisation und Koordination der „Kinder bewältigen Angst“ (KibA-III) Therapiestudie in Bochum. 
