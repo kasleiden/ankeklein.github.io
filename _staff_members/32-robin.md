@@ -2,7 +2,7 @@
 nameid: robin
 layout: teammember
 name: ROBIN ZIMMERMANN
-title: wissenschaftlicher Mitarbeiter KIBA-III
+title: wissenschaftlicher Mitarbeiter Koordination der KIBA-III
 group: collaborator
 summary: Robin übernimmt als wissenschaftlicher Mitarbeiter die Organisation und Koordination der „Kinder bewältigen Angst“ (KibA-III) Therapiestudie in Bochum. 
 permalink: /team/robin
