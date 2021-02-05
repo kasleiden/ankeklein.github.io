@@ -1,5 +1,5 @@
 ---
-nameid: Silvia
+nameid: silvia
 layout: teammember
 name: PROF SIlVIA SCHNEIDER
 title: Professor
