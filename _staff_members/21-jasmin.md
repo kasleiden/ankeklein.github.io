@@ -3,7 +3,7 @@ nameid: Jasmin
 layout: teammember
 name: JASMIN RAHEMENIA
 title: Research Master stagiaire
-group: team
+group: collaborator
 summary: Jasmin is Research masterstudent Developmental Psychology aan de Universiteit Leiden
 permalink: /team/jasmin
 image: /img/jasmin.jpg
