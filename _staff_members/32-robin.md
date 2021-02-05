@@ -2,9 +2,9 @@
 nameid: robin
 layout: teammember
 name: ROBIN ZIMMERMANN
-title: Leiterin des Zentrums für Kinder und Jugendlichenpsychotherapie
+title: wissenschaftlicher Mitarbeiter
 group: collaborator
-summary: Leiterin des Zentrums für Kinder und Jugendlichenpsychotherapie am Forschungs- und Behandlungszentrum für psychische GesundheitProf Schneider, Lehrstur Klinische Kinder- und Jugendpsychologie, Ruhr-Universität, Bochum
+summary: Robin übernimmt als wissenschaftlicher Mitarbeiter die Organisation und Koordination der „Kinder bewältigen Angst“ (KibA-III) Therapiestudie in Bochum. 
 permalink: /team/robin
 image: /img/robin.jpg
 ---
