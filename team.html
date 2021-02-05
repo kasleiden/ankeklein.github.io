@@ -19,7 +19,7 @@ title: TEAM
   <br />
   {% for staff_member in site.staff_members %}
   {% assign remainder = forloop.index | modulo: 4 %}
-    {% if remainder == 2 %}
+    {% if remainder == 1 %}
     <div class="row">
     {% endif %}
       {%if staff_member.group == "team" %}
