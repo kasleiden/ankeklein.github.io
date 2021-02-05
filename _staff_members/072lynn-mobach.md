@@ -3,7 +3,7 @@ nameid: lynn
 layout: teammember
 name: LYNN MOBACH
 title: PhD student
-group: collaborator
+group: team
 summary: 
 permalink: /team/lynn
 image: /img/lynn.jpg
