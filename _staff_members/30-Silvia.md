@@ -1,9 +1,9 @@
 ---
-nameid: Chantalle
+nameid: Silvia
 layout: teammember
-name: CHANTALLE ROETINK
-title: Alumnus
-group: team
+name: PROF SIlVIA SCHNEIDER
+title: Professor
+group: collaborator
 summary: Chantalle werkte als test assistent bij het UvaCare project
 permalink: /team/chantalle
 image: /img/chantalle.jpg
