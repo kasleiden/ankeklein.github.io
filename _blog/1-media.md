@@ -19,11 +19,12 @@ Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Boli
 Klein, A. M., Nauta, M., & Ollendick. Th. (2020). Kortdurende intensieve behandeling voor kinderen met 
 een specifieke fobie: één-sessie behandeling. In C. Braet & S. M. Bögels (Eds.), Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten deel III (pp. 547-603). [Short intensive treatment for children with a specific phobia: one-session-treatment. In: Protocol treatments for children and adolescents with psychological problems part III]. Amsterdam: Boom Uitgevers.
 
+*IN DE MEDIA*
 Klein (2020). Jeugdjournaal over angst en corona, 12 mei 2020. [klik hier](https://www.youtube.com/watch?v=Ue_9J77J_mM) om het fragment terug te kijken.
 
 Klein (2020). Jeugdjournaal Corona special, 5 april 2020. [klik hier](https://jeugdjournaal.nl/artikel/2329474-wat-moet-je-doen-als-je-bang-bent-voor-corona.html) om het fragment terug te kijken.
 
-Klein in het Algemeen Dagblad (2020). Waarom die (verboden) knuffel zo belangrijk is voor kleine kinderen.[klik hier](https://www.ad.nl/binnenland/waarom-die-verboden-knuffel-zo-belangrijk-is-voor-kleine-kinderen~a47d8518/) om het artikel terug te lzen.
+Klein in het Algemeen Dagblad (2020). Waarom die (verboden) knuffel zo belangrijk is voor kleine kinderen.[klik hier](https://www.ad.nl/binnenland/waarom-die-verboden-knuffel-zo-belangrijk-is-voor-kleine-kinderen~a47d8518/) om het artikel terug te lezen.
 
 <br>
 **2019** 
