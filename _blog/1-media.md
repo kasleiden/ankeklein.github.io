@@ -9,7 +9,7 @@ category: blog
 
 **Publications**
 <br>
-**2020**
+**2020** <br>
 Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
 
 Baartmans, J. M. D., van Steensel, F. J. A., Mobach, L., Lansu, T. A. M., Bijsterbosch, G., Verpaalen, I., Rapee, R. M., Magson, N., Bögels, S. M., Rinck, M., & Klein, A. M. (2020). Social anxiety and perceptions of likeability by peers in children. British Journal of Developmental Psychology.
@@ -21,8 +21,8 @@ Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Boli
 Klein, A. M., Nauta, M., & Ollendick. Th. (2020). Kortdurende intensieve behandeling voor kinderen met 
 een specifieke fobie: één-sessie behandeling. In C. Braet & S. M. Bögels (Eds.), Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten deel III (pp. 547-603). [Short intensive treatment for children with a specific phobia: one-session-treatment. In: Protocol treatments for children and adolescents with psychological problems part III]. Amsterdam: Boom Uitgevers.
 
-
-**2019**
+<br>
+**2019** <br>
 Klein, A. M., Rapee, R. M., Hudson, J. F., Morris, T. M., Schneider, S. C., Schniering, C. A., Becker, E. S., & Rinck, M. (2019). Content-specific interpretation biases in clinically anxious children. Behaviour Research and Therapy, 121, 103452.
 
 Baartmans, J. M. D., Rinck, M., Hudson, J. L., Lansu, T. A. M., van Niekerk, R. E., Bögels, S. M., & Klein, A. M. (2019). Are socially anxious children really less liked, or do they only think so? Cognitive Therapy and Research, 43, 1043-1050.
