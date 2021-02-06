@@ -17,10 +17,14 @@ Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en 
 
 <br>
 <br>
-<br>
+
 
 <div style="text-align:center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lxpDqcYSaXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<div style="text-align:center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gEfuzKtkN9k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="text-align:center">
@@ -28,8 +32,10 @@ Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en 
 </div>
 
 
-
+<br>
+<br>
 
 
 Vind hier betrouwbare informatie over corona: <br>
 [Nederlands Jeugdinstituut](https://www.nji.nl/coronavirus)
+[Kenniscentrum Kinder- en Jeugdpsychiatrie](https://www.kenniscentrum-kjp.nl/professionals/dossiers/kinder-jeugdpsychiatrie-corona/)
