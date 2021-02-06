@@ -8,4 +8,4 @@ category: news
 image: /img/nwa3tipskind.jpg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lxpDqcYSaXQ" frameborder="0" allowfullscreen></iframe>
+
