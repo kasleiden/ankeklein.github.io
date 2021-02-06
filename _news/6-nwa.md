@@ -5,7 +5,7 @@ summary: Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook v
 permalink: /news/nwa
 project-url: /projects/corona
 category: news
-image: /img/nwatipskind.jpg
+image: /img/nwa3tipskind.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lxpDqcYSaXQ" frameborder="0" allowfullscreen></iframe>
