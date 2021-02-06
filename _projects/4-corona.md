@@ -28,5 +28,5 @@ Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en 
 
 
 
-Vind hier betrouwbare informatie over corona:
+Vind hier betrouwbare informatie over corona: <br>
 [Nederlands Jeugdinstituut](https://www.nji.nl/coronavirus)
