@@ -20,7 +20,8 @@ Klein, A. M., Nauta, M., & Ollendick. Th. (2020). Kortdurende intensieve behande
 een specifieke fobie: één-sessie behandeling. In C. Braet & S. M. Bögels (Eds.), Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten deel III (pp. 547-603). [Short intensive treatment for children with a specific phobia: one-session-treatment. In: Protocol treatments for children and adolescents with psychological problems part III]. Amsterdam: Boom Uitgevers.
 
 <br>
-**2019** <br>
+**2019** 
+<br>
 Klein, A. M., Rapee, R. M., Hudson, J. F., Morris, T. M., Schneider, S. C., Schniering, C. A., Becker, E. S., & Rinck, M. (2019). Content-specific interpretation biases in clinically anxious children. Behaviour Research and Therapy, 121, 103452.
 
 Baartmans, J. M. D., Rinck, M., Hudson, J. L., Lansu, T. A. M., van Niekerk, R. E., Bögels, S. M., & Klein, A. M. (2019). Are socially anxious children really less liked, or do they only think so? Cognitive Therapy and Research, 43, 1043-1050.
