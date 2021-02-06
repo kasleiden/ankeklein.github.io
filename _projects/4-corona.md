@@ -20,3 +20,5 @@ Vind hier betrouwbare informatie over corona:
 
 [<img src="/img/corona.jpg">](https://www.youtube.com/watch?v=lxpDqcYSaXQ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxpDqcYSaXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
