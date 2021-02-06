@@ -19,6 +19,8 @@ Karyotaki, E., Klein, A. M., Riper, H., de Wit, Krijnen, L. J. G., Bol, E., Boli
 Klein, A. M., Nauta, M., & Ollendick. Th. (2020). Kortdurende intensieve behandeling voor kinderen met 
 een specifieke fobie: één-sessie behandeling. In C. Braet & S. M. Bögels (Eds.), Protocollaire behandelingen voor kinderen en adolescenten met psychische klachten deel III (pp. 547-603). [Short intensive treatment for children with a specific phobia: one-session-treatment. In: Protocol treatments for children and adolescents with psychological problems part III]. Amsterdam: Boom Uitgevers.
 
+Klein (2020). Jeugdjournaal Corona special, 5 april 2020. [klik hier] (https://jeugdjournaal.nl/artikel/2329474-wat-moet-je-doen-als-je-bang-bent-voor-corona.html) om het fragment terug te kijken.
+
 <br>
 **2019** 
 <br>
