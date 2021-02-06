@@ -52,3 +52,5 @@ Vind hier betrouwbare informatie over corona: <br>
 [Nederlands Jeugdinstituut](https://www.nji.nl/coronavirus)
 <br>
 [Kenniscentrum Kinder- en Jeugdpsychiatrie](https://www.kenniscentrum-kjp.nl/professionals/dossiers/kinder-jeugdpsychiatrie-corona/)
+<br>
+[De kinderombudsman](https://www.dekinderombudsman.nl/ik-heb-een-vraag-over/corona)
