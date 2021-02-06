@@ -23,6 +23,8 @@ Klein (2020). Jeugdjournaal over angst en corona, 12 mei 2020. [klik hier](https
 
 Klein (2020). Jeugdjournaal Corona special, 5 april 2020. [klik hier](https://jeugdjournaal.nl/artikel/2329474-wat-moet-je-doen-als-je-bang-bent-voor-corona.html) om het fragment terug te kijken.
 
+Klein in het Algemeen Dagblad (2020). Waarom die (verboden) knuffel zo belangrijk is voor kleine kinderen.[klik hier](https://www.ad.nl/binnenland/waarom-die-verboden-knuffel-zo-belangrijk-is-voor-kleine-kinderen~a47d8518/) om het artikel terug te lzen.
+
 <br>
 **2019** 
 <br>
