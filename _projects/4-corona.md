@@ -54,6 +54,12 @@ Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en 
 <br>
 <br>
 
+<div style="text-align:center">
+  <iframe width="560" height="315" src="https://www.facebook.com/nationalewetenschapsagenda/videos/516204002592078/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<br>
+<br>
 
 Vind hier betrouwbare informatie over corona: <br>
 [Nederlands Jeugdinstituut](https://www.nji.nl/coronavirus)
