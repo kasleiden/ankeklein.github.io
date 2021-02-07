@@ -31,6 +31,13 @@ Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en 
 
 <br>
 <br>
+<div style="text-align:center">
+  <iframe width="560" height="315" src="https://wetenschapsagenda.nl/artikelen/zorgen-en-stress-onder-kinderen-om-corona-3-tips-voor-ouders/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+<br>
+<br>
 
 <div style="text-align:center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gEfuzKtkN9k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
