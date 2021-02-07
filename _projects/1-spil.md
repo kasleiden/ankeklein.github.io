@@ -11,9 +11,6 @@ members: [leone, michiel, anika, anke, marjolein]
 Doet u ook mee met het SPIL-programma? Scholen, leraren en zorgmedewerkers die met ons mee willen denken of doen zijn van harte welkom!
 <br>
 
-De volgende online focusgroepbijeenkomsten zijn op 14 en 19 januari van 16-18u. Aanmelden via kas@fsw.leidenuniv.nl.
-<br>
-
 Radio LEF maakte een podcast over het SPIL-programma: [luister hier.](https://open.spotify.com/episode/1woeQZApsmgxbpQtfEQPGZ?si=iIYTHGOHTlGYJw-TEfYx5w)
 
 <br> 
