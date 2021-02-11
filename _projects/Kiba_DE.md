@@ -19,19 +19,19 @@ Kinder mit einer spezifischen Phobie haben große Angst vor bestimmten Gegenstä
 <br> 
 
 #### Für wen?
-Kinder zwischen 7 und 14 Jahren können sich ab sofort bei einem unserer drei Standorte in den Niederlanden (LUBEC in Leiden, UvA in Amsterdam und Accare in Groningen) für Diagnose und Behandlung anmelden. Die Behandelzentren in den Niederlanden (und ein Behandelzentrum in Deutschland) arbeiten gemeinsam mit einem internationalen Team an einem Forschungsprojekt, um Kindern mit spezifischen Phobien die best mögliche Behandlung zukommen zu lassen. Beim KIBA Training wird eine Behandlung angeboten, von der bekannt ist, dass sie den meisten Kindern mit spezifischen Phobien hilft.
+Kinder zwischen 7 und 14 Jahren können sich ab sofort bei einem unserer drei Standorte in den Niederlanden (LUBEC in Leiden, UvA in Amsterdam und Accare in Groningen) oder bei unserem Standort in Deutschland (FBZ in Bochum) zur Diagnostik und Behandlung anmelden. Die Behandlungszentren in den Niederlanden und in Deutschland arbeiten gemeinsam in einem internationalen Team an einem Forschungsprojekt, um Kindern mit spezifischen Phobien die bestmögliche Behandlung zukommen zu lassen. Beim KIBA Training wird eine Behandlung angeboten, von der bekannt ist, dass sie den meisten Kindern mit spezifischen Phobien hilft.
 
 <br> 
 
 
 #### Über das KIBA Trainingsprogramm
-Mit unserem Forschungsprojekt wollen wir untersuchen, ob wir die Behandlung von Kindern mit spezifischen Phobien mit einem Übungsprogramm für Zuhause noch weiter verbessern können. Wir vergleichen hierfür ein Trainingsprogramm, das mit Hilfe einer App funktioniert (unterstützt von einem Therapeuten) mit einem Trainigsprogramm, in dem der Therapeut selbst Anweisungen gibt. Es wird ausgelost, welches Kind an welchem Trainingsprogramm teilnimmt. Wenn Sie und Ihr Kind an der Studie teilnehmen, besuchen Sie insgesamt 7 mal eines unserer Behandelzentren. Die Teilnahme an der Studie ist kostenlos.  
+Mit unserem Forschungsprojekt wollen wir untersuchen, ob wir die Behandlung von Kindern mit spezifischen Phobien mit einem Übungsprogramm für Zuhause noch weiter verbessern können. Wir vergleichen hierfür ein Trainingsprogramm, das mit Hilfe einer App funktioniert (unterstützt von einem Therapeuten) mit einem Trainingsprogramm, in dem der Therapeut selbst Aufgaben und Informationen weitergibt. Es wird ausgelost, welches Kind an welchem Trainingsprogramm teilnimmt. Wenn Sie und Ihr Kind an der Studie teilnehmen, werden Sie zu insgesamt 7 Terminen in einem unserer Behandlungszentren eingeladen. Die Teilnahme an der Studie ist kostenlos. 
 
-Während dem Trainingsprogramm formt das Kind gemeinsam mit dem seinem Therapeut ein Team um  die Ansgt zu besiegen. Ihr Kind lernt viel über die Situation, vor der es solche Angst hat und wie es mit dieser Angst umgehen kann. Schritt für Schritt lernen die Kinder, ihre Ängste zu bewältigen und schwierige Situationen in den griff zu bekommen.
+Während dem Trainingsprogramm bildet das Kind gemeinsam mit seinem Therapeuten ein Team, um die Angst zu besiegen. Ihr Kind lernt dabei viel über die Situation, vor der es sich besonders fürchtet und zugleich, wie es mit seiner Angst umgehen kann. Schritt für Schritt lernen die Kinder, ihre Ängste zu bewältigen und schwierige Situationen in den Griff zu bekommen.
 
 <br> 
 
-#### Mehr Information oder Anmeldung?
+#### Mehr Informationen oder direkt zur Anmeldung?
 Für mehr Informationen oder für eine Anmeldung zur Teilnahme an der Studie sind wir täglich telefonisch oder per Mail erreichbar. 
 <br>
 Telefonnummer: 071 527 6673
