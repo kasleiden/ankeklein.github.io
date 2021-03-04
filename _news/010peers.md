@@ -3,7 +3,7 @@ layout: post
 title: Peers studie
 summary:
 permalink: /news/peers
-project-url: /team/jeanine
+project-url: /projects/peers
 category: news
 image: /img/peers.jpg
 ---
