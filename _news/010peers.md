@@ -5,7 +5,7 @@ summary:
 permalink: /news/peers
 project-url: /projects/peers
 category: news
-image: /img/peers.jpg
+image: /img/peers.png
 ---
 
 
