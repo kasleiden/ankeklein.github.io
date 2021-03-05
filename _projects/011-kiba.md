@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kinderen Bedwingen Angst - Het KIBA project
-summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
+title: Kinderen bedwingen Angst - Het KibA project
+summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor jou!
 permalink: /projects/kiba
 category: project
 image: /img/banner_kiba_groot.jpg
@@ -9,7 +9,7 @@ members: [anke, annelieke, recep, yolinda, amal, fabienne, selina, mike, tom]
 ---
 
 <br>
-Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KIBA training misschien wel iets voor jou!
+Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor jou!
 
 <br>
 
@@ -19,7 +19,7 @@ Kinderen met een specifieke fobie zijn heel bang voor bepaalde voorwerpen, diere
 <br> 
 
 #### Voor wie?
-Kinderen tussen de 7 – 14 jaar kunnen vanaf nu terecht op drie locaties in Nederland (LUBEC te Leiden, UvA minds te Amsterdam & Accare, te Groningen) voor diagnostiek en behandeling. Deze instellingen (en een instelling in Duitsland) werken, samen met een groot internationaal team, aan wetenschappelijk onderzoek om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
+Kinderen tussen de 7 – 14 jaar kunnen vanaf nu terecht op drie locaties in Nederland (Kenniscentrum Angst en Stress bij Jeugd te Leiden, UvA minds te Amsterdam & Accare, te Groningen) voor diagnostiek en behandeling. Deze instellingen (en een instelling in Duitsland) werken, samen met een groot internationaal team, aan wetenschappelijk onderzoek om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
 
 <br> 
 
