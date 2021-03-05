@@ -8,8 +8,8 @@ category: news
 image: /img/banner_kiba_groot.jpg
 members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 ---
-<b>
-<b>
-<b>
+
+
+
 #### Nieuws
 Vanaf 1 maart is het KibA project gestart bij het <B>Kenniscentrum voor Angst en Stress bij jeugd (KAS)</B> in Leiden en bij <B>UvA minds</B> in Amsterdam. Meer informatie over dit programma kunt u lezen door op de banner te klikken of u kunt ons natuurlijk ook altijd bellen op 071-5276673 of mailen naar kiba@fsw.leidenuniv.nl.
