@@ -88,4 +88,5 @@ Vind hier betrouwbare informatie over corona: <br>
 [Kenniscentrum Kinder- en Jeugdpsychiatrie](https://www.kenniscentrum-kjp.nl/professionals/dossiers/kinder-jeugdpsychiatrie-corona/)
 <br>
 [De kinderombudsman](https://www.dekinderombudsman.nl/ik-heb-een-vraag-over/corona)
+<br>
 [Nationale wetenschapsagenda](https://wetenschapsagenda.nl/videos/corona-uitgelegd/)
