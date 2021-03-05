@@ -39,7 +39,6 @@ telefoonnummer: 071 527 6673
 E-Mail: kiba@fsw.leidenuniv.nl
 <br>
 <br>
-#### KibA flyer en poster
 [KibA flyer](/pdf/kiba flyer.pdf) 
 <br>
 [KibA poster](/pdf/kiba poster.pdf)
