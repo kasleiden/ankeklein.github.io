@@ -5,6 +5,6 @@ summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden
 permalink: /news/kiba
 project-url: /projects/kiba
 category: news
-image: /img/bannerKibA_groot.jpg
+image: /img/banner_kiba_groot.jpg
 members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 ---
