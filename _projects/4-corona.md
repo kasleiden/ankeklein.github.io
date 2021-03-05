@@ -71,6 +71,13 @@ Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en 
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Mga_kKw7DhU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+
+<br>
+<br>
+<div style="text-align:center">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=iyvrE502FSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 <br>
 <br>
 
