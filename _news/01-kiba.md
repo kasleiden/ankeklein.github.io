@@ -14,7 +14,6 @@ members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 Vanaf 1 maart is het KibA project gestart bij het [Kenniscentrum voor Angst en Stress bij jeugd (KAS)](https://kasleiden.nl) in Leiden en  [UvA minds](https://uvaminds.nl) in Amsterdam. Meer informatie over dit programma kunt u lezen door op de banner te klikken of u kunt ons natuurlijk ook altijd bellen op 071-5276673 of mailen naar kiba@fsw.leidenuniv.nl.
 
 
-[KibA flyer](/pdf/kiba flyer.pdf)
-[KibA poster](/pdf/kiba poster.pdf)
+[Klik hier](/pdf/kiba flyer.pdf) om de kiba flyer en [klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden.
 
 
