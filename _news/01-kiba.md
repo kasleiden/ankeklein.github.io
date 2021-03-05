@@ -16,6 +16,6 @@ Vanaf 1 maart is het KibA project gestart bij het [Kenniscentrum voor Angst en S
 
 [Klik hier](/pdf/kiba flyer.pdf) om de kiba flyer te downloaden
 <br>
-[klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden.
+[klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden
 
 
