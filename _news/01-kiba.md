@@ -9,7 +9,7 @@ image: /img/banner_kiba_groot.jpg
 members: [anke, annelieke, recep, yolinda, amal, fabienne, selina]
 ---
 
-<br>
+
 <br>
 
 #### Nieuws
