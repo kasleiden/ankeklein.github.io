@@ -5,7 +5,7 @@ summary: Het doel van het Kenniscentrum Angst en Stress bij Jeugd (KAS) is stres
 permalink: /news/kas
 project-url: /projects/kas
 category: news
-image: /img/banner-KAS-project.jpg
+image: /img/banner_KAS_groot.jpg
 ---
 
 [klik hier](https://kasleiden.nl) om naar de website van het kenniscentrum te gaan. 
