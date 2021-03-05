@@ -5,7 +5,7 @@ summary: Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook v
 permalink: /news/corona
 project-url: /projects/corona
 category: news
-image: /img/banner_corona_groot.jpg
+image: /img/banner_corona_groot.png
 ---
 
 [klik hier](https://www.universiteitleiden.nl/nieuws/2020/04/anke-klein-in-de-media) voor meer informatie over angst bij kinderen rondom Corona.
