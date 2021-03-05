@@ -36,7 +36,7 @@ Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per 
 <br>
 telefoonnummer: 071 527 6673
 <br>
-E-Mail: kiba@fsw.leidenuniv.nl
+E-Mail: peers@fsw.leidenuniv.nl
 
 
 <br>
