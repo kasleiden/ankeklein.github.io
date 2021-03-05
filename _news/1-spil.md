@@ -5,7 +5,7 @@ summary: Hoe kunnen we scholen helpen stress en angst in de klas te herkennen en
 permalink: /news/spil
 project-url: /projects/spil
 category: news
-image: /img/bannerSPIL_groot.jpg
+image: /img/banner SPIL_groot.jpg
 ---
 <br>
 #### Nieuws 
