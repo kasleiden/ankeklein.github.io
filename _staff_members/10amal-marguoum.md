@@ -2,7 +2,7 @@
 nameid: amal
 layout: teammember
 name: AMAL MARGUOUM
-title: Stagiaire KIBA
+title: Stagiaire PEERS-studie
 group: team
 summary: Amal is masterstudent bij de opleiding kind- en jeugdpsychologie aan de Universiteit Leiden en loopt stage bij het KIBA project.
 permalink: /team/amal
