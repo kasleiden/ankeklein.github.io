@@ -40,4 +40,4 @@ E-Mail: kiba@fsw.leidenuniv.nl
 
 
 <br>
-[click here](https://news.rub.de/wissenschaft/2019-07-17-neues-projekt-angsttherapie-mit-app-fuer-kinder)
+[click here](https://news.rub.de/wissenschaft/2019-07-17-neues-projekt-angsttherapie-mit-app-fuer-kinder) für mehr informationen
