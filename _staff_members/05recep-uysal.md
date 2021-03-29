@@ -21,4 +21,4 @@ Dr. Uysal received fellowships like NWO Hestia Programme (2019) and IIE Scholar 
 
 Contact:
 r.uysal@fsw.leidenuniv.nl
-Linkedin profile
+[linkedin profiel](https://www.linkedin.com/in/recep-uysal-12a75040/)
