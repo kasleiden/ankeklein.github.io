@@ -25,8 +25,11 @@ Dr. Uysal received fellowships like NWO Hestia Programme (2019) and IIE Scholar 
 
 Contact:
 r.uysal@fsw.leidenuniv.nl
+<br>
 [linkedin profiel](https://www.linkedin.com/in/recep-uysal-12a75040/)
-
+<br>
+<br>
+<br>
 #### Nederlands profiel
 Recep Uysal is een postdoc onderzoeker bij de onderzoeksgroep van Dr. Anke Klein, afdeling Ontwikkelings- en Onderwijspsychologie van het Instituut Psychologie van de Universiteit Leiden.
 <br>
@@ -47,5 +50,6 @@ Recep heeft een Hestia beurs (2019) en een IIE Scholar Rescue Fund beurs (2020) 
 <br>
 Contact:
 r.uysal@fsw.leidenuniv.nl
+<br>
 [linkedin profiel](https://www.linkedin.com/in/recep-uysal-12a75040/)
 
