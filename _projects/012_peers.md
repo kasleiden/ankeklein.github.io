@@ -28,6 +28,10 @@ Wij zijn ons bewust van deze moeilijke periode waarin iedereen extra voorzichtig
 <br>
 <br>
 #### Zou de school van uw kind misschien mee willen doen aan dit leuke project, of bent u zelf leerkracht en zou u graag meer willen weten? Super fijn als u contact wilt opnemen met ons via peers@fsw.leidenuniv.nl of via 071-5276673. 
+<br>
+<br>
+<br>
+PEERS Informatiebrief voor scholen
 
 
 
