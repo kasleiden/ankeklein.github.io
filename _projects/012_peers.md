@@ -35,7 +35,7 @@ Download [hier](/pdf/PEERS Informatiebrief voor scholen.pdf) de informatiebrief 
 <br>
 Download [hier](/pdf/Informatiebrief Ouders.pdf) de informatiebrief voor ouders.
 <br>
-Download [hier](/pdf/Informatiebrief Kinderen.pdf) de informatiebrief voor ouders.
+Download [hier](/pdf/Informatiebrief Kinderen.pdf) de informatiebrief voor kinderen.
 
 
 
