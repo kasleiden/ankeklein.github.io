@@ -33,7 +33,7 @@ Wij zijn ons bewust van deze moeilijke periode waarin iedereen extra voorzichtig
 <br>
 Download [hier](/pdf/PEERS Informatiebrief voor scholen.pdf) de informatiebrief voor scholen.
 <br>
-Download [hier](/pdf/Informatiebrief Ouders.pdf) de informatiebrief voor ouders..
+Download [hier](/pdf/Informatiebrief Ouders.pdf) de informatiebrief voor ouders.
 <br>
 Download [hier](/pdf/Informatiebrief Kinderen.pdf) de informatiebrief voor kinderen.
 
