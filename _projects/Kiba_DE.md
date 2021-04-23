@@ -34,9 +34,9 @@ Während dem Trainingsprogramm bildet das Kind gemeinsam mit seinem Therapeuten 
 #### Mehr Informationen oder direkt zur Anmeldung?
 Für mehr Informationen oder für eine Anmeldung zur Teilnahme an der Studie sind wir täglich telefonisch oder per Mail erreichbar. 
 <br>
-Telefonnummer: 071 527 6673
+Telefonnummer: 0234/32-27689 
 <br>
-E-Mail: kiba@fsw.leidenuniv.nl
+E-Mail: projekt-kiba3@ruhr-uni-bochum.de
 
 
 <br>
