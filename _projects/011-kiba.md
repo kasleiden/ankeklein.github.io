@@ -80,5 +80,5 @@ E-Mail: kiba@fsw.leidenuniv.nl
 <br>
 [KibA flyer](/pdf/kiba flyer.pdf) 
 <br>
-[KibA poster](/pdf/kiba poster.pdf)
+[KibA poster](/pdf/kiba poster engels.pdf)
 
