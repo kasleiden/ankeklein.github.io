@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kids beat Anxiety - Het KibA project
+title: Kinderen bedwingen Angst - Het KibA project
 summary: Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor jou!
 permalink: /projects/kiba
 category: project
@@ -48,6 +48,8 @@ E-Mail: kiba@fsw.leidenuniv.nl
 <br>
 <br>
 <br>
+
+# Kids Beat Anxiety - the KibA project
 Do you suffer from a specific anxiety, for example the fear of dogs, heights, injections, thunder, the dark, spiders or other animals? If so, the KiBA training might be something for you!
 
 <br>
