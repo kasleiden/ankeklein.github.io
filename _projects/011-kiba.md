@@ -8,6 +8,8 @@ image: /img/banner_kiba_groot.jpg
 members: [anke, annelieke, recep, silvia, mike, tom]
 ---
 
+for English see below
+<br>
 <br>
 Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor jou!
 
