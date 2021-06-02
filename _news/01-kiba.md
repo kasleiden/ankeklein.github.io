@@ -18,6 +18,7 @@ Vanaf 1 maart is het KibA programma gestart. Meer informatie over dit programma 
 <br>
 [klik hier](/pdf/kiba poster.pdf) om de kiba poster te downloaden in het Nederlands
 <br>
+<br>
 [Click here](/pdf/kiba flyer.pdf) to download the kiba flyer in English 
 <br>
 [klik hier](/pdf/kiba poster engels.pdf) om de kiba poster te downloaden in het Nederlands
