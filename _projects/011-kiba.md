@@ -51,8 +51,8 @@ Tijdens de training vormen de kinderen een team met hun therapeut om hun angst t
 Op dit moment doen vier instellingen in Nederland mee aan het programma:
 - Uvaminds in Amsterdam <br>
 - Leids Universitair Behandel en Expertise Centrum in Leiden <br>
-- Psycholgenpraktijk Kuin (vanaf september)
-- Accare Groningen (vanaf september)
+- Psycholgenpraktijk Kuin in Haarlem (vanaf september)
+- Accare locatie in Groningen (vanaf september)
 
 <br>
 Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma met een verwijzing van de huisarts gratis is. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten:
