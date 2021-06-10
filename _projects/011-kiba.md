@@ -49,7 +49,6 @@ Op dit moment doen vier instellingen in Nederland mee aan het programma: <br>
 - Accare Groningen (vanaf september)
 
 <br>
-<br>
 Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma met een verwijzing van de huisarts gratis is. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten: <br>
 - Amsterdam <br>
 - Aalsmeer <br>
