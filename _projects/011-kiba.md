@@ -11,20 +11,28 @@ members: [anke, annelieke, recep, silvia, mike, tom]
 for English see below
 <br>
 <br>
-Heb je last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor jou!
+Heb uw kind last van een specifiek angst, bijvoorbeeld een angst voor honden, hoogtes, injecties, onweer, het donker, spinnen of andere dieren? Dan is de KibA training misschien wel iets voor hem of haar!
 
 <br>
 
 #### Achtergrond
 Kinderen met een specifieke fobie zijn heel bang voor bepaalde voorwerpen, dieren of situaties. Sommige kinderen zijn bijvoorbeeld erg bang voor spinnen, honden, wespen, harde geluiden, het krijgen van een prik, hoogtes of kleine ruimtes. Veel kinderen hebben last van een specifieke fobie, en dat kan het leven thuis, op school en daarbuiten best moeilijk maken. 
+<br> 
+
+Samen met een groot internationaal team hebben we het KibA programma ontwkkeld om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Met het KibA programma onderzoeken we of we de behandeling van kinderen met een specifieke fobie nog verder kunnen verbeteren met behulp van een oefenprogramma. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
 
 <br> 
 
 #### Voor wie?
-Kinderen tussen de 7 – 14 jaar kunnen vanaf nu terecht op drie locaties in Nederland (Kenniscentrum Angst en Stress bij Jeugd te Leiden, UvA minds te Amsterdam & Accare, te Groningen) voor diagnostiek en behandeling. Deze instellingen (en een instelling in Duitsland) werken, samen met een groot internationaal team, aan wetenschappelijk onderzoek om kinderen met een specifieke fobie zo goed mogelijk te kunnen helpen. Binnen dit onderzoek bieden we een behandeling aan waarvan we al weten dat deze voor de meeste kinderen met een specifieke fobie goed helpt.
+Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7 – 14 jaar. Het KibA programma helpt kinderen met bijna alle specifieke fobieën. Hieronder vind je een lijst met voorbeelden. Staat jouw angst er niet bij, bel of mail dan gerust, waarschijnlijk kunnen we je ook helpen! <br> <br>
+
+- Dieren: honden, poezen, spinnen, wespen, bijen, hommels, vogels, slangen, knaagdieren (en nog veel meer) <br>
+- stuaties: hoogtevrees, donker, onweer, storm, bliksem, lift, vliegen met het vliegtuig, in de auto meerijden, kleine ruimtes <br>
+- medische handelingen: naar de dokter of de tandarts gaan, medische ingrepen, prikangst, bloedfobie <br>
+- overige: clowns, balonnen, geesten, spoken
+<br>
 
 <br> 
-
 
 #### Over de training
 In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën bij kinderen nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een trainingsprogramma met een mobiele app – ondersteunt door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
@@ -32,6 +40,29 @@ In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën
 Tijdens de training vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
 
 <br> 
+
+#### Waar en wat kost het?
+Op dit moment doen vier instellingen in Nederland mee aan het programma: <br>
+- Uvaminds in Amsterdam <br>
+- Leids Universitair Behandel en Expertise Centrum in Leiden <br>
+- Psycholgenpraktijk Kuin (vanaf september)
+- Accare Groningen (vanaf september)
+
+<br>
+<br>
+Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma met een verwijzing van de huisarts gratis is. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten: <br>
+- Amsterdam <br>
+- Aalsmeer <br>
+- Amstelveen <br> 
+- Diemen <br>
+- Gooi- en Vechtstreek <br>
+- Haarlem <br>
+- Ouder-amstel <br>
+- Uithoorn <br>
+- Utrecht West<br>
+- Zaanstreek- Waterland <br>
+<br>
+Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust, vaak kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
 
 #### Meer informatie of aanmelden?
 Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
