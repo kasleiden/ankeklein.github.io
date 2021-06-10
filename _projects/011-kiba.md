@@ -60,7 +60,6 @@ Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma 
 - Uithoorn <br>
 - Utrecht West<br>
 - Zaanstreek- Waterland <br>
-<br>
 Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust, vaak kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
 
 #### Meer informatie of aanmelden?
