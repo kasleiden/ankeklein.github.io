@@ -39,7 +39,7 @@ Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7
 <br>
 
 
-#### Over de training
+#### Over het KibA programma
 In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën bij kinderen nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een trainingsprogramma met een mobiele app – ondersteunt door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
 
 Tijdens de training vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
@@ -47,7 +47,7 @@ Tijdens de training vormen de kinderen een team met hun therapeut om hun angst t
 <br> 
 <br>
 
-#### Waar en wat kost het?
+#### Waar draait het KibA programma en wat kost het?
 Op dit moment doen vier instellingen in Nederland mee aan het programma:
 - Uvaminds in Amsterdam <br>
 - Leids Universitair Behandel en Expertise Centrum in Leiden <br>
