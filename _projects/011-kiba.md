@@ -33,7 +33,7 @@ Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7
 - <b> overige </b>: clowns, balonnen, geesten, spoken, knopen
 <br>
 <br>
-
+<br>
 
 
 #### Over de training
@@ -42,6 +42,7 @@ In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën
 Tijdens de training vormen de kinderen een team met hun therapeut om hun angst te overwinnen. Uw kind leert veel over de situaties waar hij/zij bang voor is en leert beter met deze angst om te gaan. Stap voor stap oefenen de kinderen met het overwinnen van hun angst en het de baas worden van moeilijke situaties. 
 
 <br> 
+<br>
 
 #### Waar en wat kost het?
 Op dit moment doen vier instellingen in Nederland mee aan het programma:
@@ -63,6 +64,7 @@ Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma 
 - Utrecht West<br>
 - Zaanstreek- Waterland <br>
 Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust, vaak kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
+<br>
 <br>
 #### Meer informatie of aanmelden?
 Voor meer informatie of voor het aanmelden zijn we dagelijks telefonisch of per email bereikbaar. 
