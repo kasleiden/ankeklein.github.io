@@ -24,7 +24,7 @@ Samen met een groot internationaal team hebben we het KibA programma ontwkkeld o
 <br> 
 
 #### Voor wie?
-Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7 – 14 jaar. Het KibA programma helpt kinderen met bijna alle specifieke fobieën. Hieronder vind je een lijst met voorbeelden. Staat jouw angst er niet bij, bel of mail dan gerust, waarschijnlijk kunnen we je ook helpen! <br> <br>
+Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7 – 14 jaar. Het KibA programma helpt kinderen met bijna alle specifieke fobieën. Hieronder vind je een lijst met voorbeelden. Staat jouw angst er niet bij, bel of mail dan gerust, waarschijnlijk kunnen we je ook helpen! <br>
 
 - Dieren: honden, poezen, spinnen, wespen, bijen, hommels, vogels, slangen, knaagdieren (en nog veel meer) <br>
 - stuaties: hoogtevrees, donker, onweer, storm, bliksem, lift, vliegen met het vliegtuig, in de auto meerijden, kleine ruimtes <br>
@@ -32,7 +32,7 @@ Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7
 - overige: clowns, balonnen, geesten, spoken
 <br>
 
-<br> 
+
 
 #### Over de training
 In dit project willen we uitzoeken of we de behandeling voor specifieke fobieën bij kinderen nog verder kunnen verbeteren met behulp van een oefenprogramma voor thuis. We vergelijken een trainingsprogramma met een mobiele app – ondersteunt door een therapeut - met een programma met instructies van de therapeut. Er wordt geloot welk oefenprogramma uw kind krijgt. Wanneer u en uw kind meedoen aan dit onderzoek komen jullie in totaal 7 keer naar één van de deelnemende instellingen. Deelname is gratis.
@@ -42,14 +42,14 @@ Tijdens de training vormen de kinderen een team met hun therapeut om hun angst t
 <br> 
 
 #### Waar en wat kost het?
-Op dit moment doen vier instellingen in Nederland mee aan het programma: <br>
+Op dit moment doen vier instellingen in Nederland mee aan het programma:
 - Uvaminds in Amsterdam <br>
 - Leids Universitair Behandel en Expertise Centrum in Leiden <br>
 - Psycholgenpraktijk Kuin (vanaf september)
 - Accare Groningen (vanaf september)
 
 <br>
-Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma met een verwijzing van de huisarts gratis is. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten: <br>
+Het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma met een verwijzing van de huisarts gratis is. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten:
 - Amsterdam <br>
 - Aalsmeer <br>
 - Amstelveen <br> 
