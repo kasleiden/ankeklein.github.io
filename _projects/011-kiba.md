@@ -27,10 +27,10 @@ Samen met een groot internationaal team hebben we het KibA programma ontwkkeld o
 #### Voor wie?
 Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7 – 14 jaar. Het KibA programma helpt kinderen met bijna alle specifieke fobieën. Hieronder vind je een lijst met voorbeelden. Staat jouw angst er niet bij, bel of mail dan gerust, waarschijnlijk kunnen we je ook helpen! <br>
 
-- Dieren: honden, poezen, spinnen, wespen, bijen, hommels, vogels, slangen, knaagdieren (en nog veel meer) <br>
-- stuaties: hoogtevrees, donker, onweer, storm, bliksem, lift, vliegen met het vliegtuig, in de auto meerijden, kleine ruimtes <br>
-- medische handelingen: naar de dokter of de tandarts gaan, medische ingrepen, prikangst, bloedfobie <br>
-- overige: clowns, balonnen, geesten, spoken
+- <b> Dieren </b>: honden, poezen, spinnen, wespen, bijen, hommels, vogels, slangen, knaagdieren (en nog veel meer) <br>
+- <b> stuaties </b>: hoogtevrees, donker, onweer, storm, bliksem, lift, vliegen met het vliegtuig, in de auto meerijden, kleine ruimtes <br>
+- <b> medische handelingen </b>: naar de dokter of de tandarts gaan, medische ingrepen, prikangst, bloedfobie <br>
+- <b> overige </b>: clowns, balonnen, geesten, spoken, knopen
 <br>
 <br>
 
