@@ -5,7 +5,7 @@ summary: Leidest du unter einer Phobie? Hast du zum Beispiel Höhenangst, Angst 
 permalink: /projects/kiba-de
 category: project
 image: /img/banner-kiba-de.jpg
-members: [silvia,kibateam]
+members: [silvia,kibateam, robin]
 ---
 
 <br>
