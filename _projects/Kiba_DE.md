@@ -46,5 +46,4 @@ E-Mail: projekt-kiba3@ruhr-uni-bochum.de
 <br>
 <br>
 #### Das KibA Team
-<br>
 <img src="{{ site.url }}/img/kibateam.jpg">
