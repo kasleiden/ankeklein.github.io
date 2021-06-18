@@ -41,3 +41,7 @@ E-Mail: projekt-kiba3@ruhr-uni-bochum.de
 
 <br>
 [click here](https://news.rub.de/wissenschaft/2019-07-17-neues-projekt-angsttherapie-mit-app-fuer-kinder) für mehr informationen
+
+<br>
+<br>
+<img src="{{ site.url }}/img/kibaapp-login1.png">
