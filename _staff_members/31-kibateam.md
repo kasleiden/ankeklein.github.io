@@ -1,5 +1,5 @@
 ---
-nameid: KibA team Germany
+nameid: kibateam
 layout: teammember
 name:  KibA team Germany
 title: 
