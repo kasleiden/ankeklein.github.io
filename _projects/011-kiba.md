@@ -72,7 +72,7 @@ Behandeling voor kinderen met een specifieke fobie en dus ook het KibA programma
 - Woont u in een andere gemeente en wilt u toch graag meedoen? Bel ons gerust, soms kunnen de instellingen waarmee wij samenwerken afspraken maken met de gemeente waar u woont. U kunt hierover contact met ons opnemen.
 <br>
 <br>
-<img src="{{ site.url }}/img/kibateam.jpg">
+<img src="{{ site.url }}/img/gemeenten.jpg">
 <br>
 
 #### Meer informatie of aanmelden?
