@@ -30,9 +30,9 @@ Samen met een groot internationaal team hebben we het KibA programma ontwikkeld 
 Het KibA programma is er voor alle kinderen met een specifieke fobie tussen de 7 – 14 jaar. Het KibA programma helpt kinderen met bijna alle specifieke fobieën. Hieronder vind je een lijst met voorbeelden. Staat jouw angst er niet bij, bel of mail dan gerust, waarschijnlijk kunnen we je ook helpen! <br>
 
 - <b> Dieren </b>: honden, poezen, spinnen, wespen, bijen, hommels, vogels, slangen, knaagdieren (en nog veel meer) <br>
-- <b> stuaties </b>: hoogtevrees, donker, onweer, storm, bliksem, lift, vliegen met het vliegtuig, in de auto meerijden, kleine ruimtes <br>
-- <b> medische handelingen </b>: naar de dokter of de tandarts gaan, medische ingrepen, prikangst, bloedfobie <br>
-- <b> overige </b>: clowns, balonnen, geesten, spoken, knopen
+- <b> Stuaties </b>: hoogtevrees, donker, onweer, storm, bliksem, lift, vliegen met het vliegtuig, in de auto meerijden, kleine ruimtes <br>
+- <b> Medische handelingen </b>: naar de dokter of de tandarts gaan, medische ingrepen, prikangst, bloedfobie <br>
+- <b> Overige </b>: clowns, ballonnen, geesten, spoken, knopen
 <br>
 <br>
 <br>
@@ -48,11 +48,12 @@ Tijdens de training vormen de kinderen een team met hun therapeut om hun angst t
 <br>
 
 #### Waar draait het KibA programma en wat kost het?
-Op dit moment doen vier instellingen in Nederland mee aan het programma:
+Op dit moment doen vijf instellingen in Nederland mee aan het programma:
 - Uvaminds in Amsterdam <br>
 - Leids Universitair Behandel en Expertise Centrum in Leiden <br>
-- Psycholgenpraktijk Kuin in Haarlem (vanaf september)
-- Accare locatie in Groningen (vanaf september)
+- Psychologenpraktijk Kuin in Haarlem (vanaf september 2021)
+- Psychologenpraktijk Sieverding in Heemstede (vanaf september 2021)
+- Accare locatie in Groningen (vanaf september 2021)
 
 <br>
 Behandeling voor kinderen met een specifieke fobie en dus ook het KibA programma valt onder de jeugdzorg. Dit betekent dat het KibA programma gratis is met een verwijzing van de huisarts of van het ouder en kind centrum. Op dit moment is in Nederland de jeugdzorg via de gemeente geregeld. Dit betekent dat de instellingen afspraken maken met de gemeentes over vergoedingen. Op dit moment hebben we de instellingen waarmee we samenwerken afspraken met de volgende gemeenten:
@@ -65,7 +66,7 @@ Behandeling voor kinderen met een specifieke fobie en dus ook het KibA programma
 - Haarlem <br>
 - Haarlemmermeer <br>
 - Heemstede <br>
-- Ouder-amstel <br>
+- Ouder-Amstel <br>
 - Uithoorn <br>
 - Utrecht West<br>
 - Zaanstreek- Waterland
@@ -103,13 +104,13 @@ Children with a specific phobia are really scared of certain objects, animals of
 <br> 
 
 #### For whom?
-Children between the age of 7 – 14 can go to three different locations in the Netherlands (Kenniscentrum Angst en Stress bij Jeugd in Leiden, UvA minds in Amsterdam & Accare, in Groningen) for diagnostics and treatment. These institutions (and an institution in Germany) work on scientific research, together with a large international team, to be able to help children with a specific phobia in the best way possible. Within this research we offer a treatment of which we already know is helpful to most children with a specific phobia. 
+Children between the age of 7 – 14 can go to five different locations in the Netherlands (Kenniscentrum Angst en Stress bij Jeugd in Leiden, UvA minds in Amsterdam, Kuin in Haarlem, Sieverding in Heemstede & Accare in Groningen) for diagnostics and treatment. These institutions (and an institution in Germany) work on scientific research, together with a large international team, to be able to help children with a specific phobia in the best way possible. Within this research we offer a treatment of which we already know is helpful to most children with a specific phobia. 
 
 <br> 
 
 
 #### About the training
-In this project, we investigate whether we can improve the treatment of specific phobia’s for children with the help of an practice program at home. We compare a training program using a mobile app – supported by a therapist – with a program with instructions from the therapist. A lottery allocates your child to one of the practice programs. When you and your child participate in this project you will visit one of the participating institutions a total of seven times. Participation is free.
+In this project, we investigate whether we can improve the treatment of specific phobias for children with the help of a practice program at home. We compare a training program using a mobile app – supported by a therapist – with a program with instructions from the therapist. A lottery allocates your child to one of the practice programs. When you and your child participate in this project you will visit one of the participating institutions a total of seven times. Participation is free.
 During the training the children will form a team with their therapist to conquer their fear. Your child will learn a lot about the situations he/she is afraid of and will learn how to better cope with this fear. Step by step the children practice conquering their fears and being in control of difficult situations. 
  
 
@@ -118,7 +119,7 @@ During the training the children will form a team with their therapist to conque
 #### More information of signing up?
 To get more information or to sign up we are reachable by phone or e-mail on a daily basis.
 <br>
-telefoonnummer: 071 527 6673
+Phone number: 071 527 6673
 <br>
 E-Mail: kiba@fsw.leidenuniv.nl
 <br>
