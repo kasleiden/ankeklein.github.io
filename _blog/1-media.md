@@ -7,6 +7,11 @@ group: blog
 category: blog
 ---
 
+
+**2021** <br>
+https://www.nrc.nl/nieuws/2021/10/11/wat-moet-ik-doen-met-een-9-jarige-die-niet-met-zijn-neefje-wil-spelen-a4061415
+<br>
+
 **2020** <br>
 Bijsterbosch, G., Mobach, L., Verpaalen, I., Bijlstra, G., Hudson, J., Rinck, M., & Klein, A. M. (2020). Validation of the child models of the Radboud Face Database by children. International Journal of Behavior Development.
 
