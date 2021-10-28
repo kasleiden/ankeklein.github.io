@@ -2,7 +2,7 @@
 nameid: yolinda
 layout: teammember
 name: YOLINDA DAVIDSE
-title: Stagiaire PEERS-studie
+title: Gastonderzoeker PEERS-studie
 group: team
 summary: Yolinda is masterstudent bij de opleiding school psychologie aan de Universiteit Leiden en loopt stage bij het KIBA project.
 permalink: /team/yolinda
@@ -16,4 +16,6 @@ Voorheen heeft ze op de Universiteit van Leiden ook haar Bacheloropleiding Psych
 
 [instagram] (https://www.instagram.com/yolindadavidse/)
 
-Contact: y.b.davidse@umail.leidenuniv.nl
+[linkedin] (https://www.linkedin.com/in/yolinda-davidse-b88650201/)
+
+Contact: y.b.davidse@fsw.leidenuniv.nl
