@@ -15,11 +15,21 @@ defaults:
   values:
     collection_basename: projects
 - scope:
+    path: "_staff_members*/"
+  values:
+    collection_basename: staff_members        
+- scope:
     path: "*_en/"
   values:
     locale: en
     lang: en-US
     collection_suffix: _en
+- scope:
+    path: "*_de/"
+  values:
+    locale: de
+    lang: de-DE
+    collection_suffix: _de    
 - scope:
     path: ""
   values:
@@ -29,6 +39,10 @@ defaults:
     path: "_pages_en/index.*"
   values:
     permalink: "/en/"    
+- scope:
+    path: "_pages_de/index.*"
+  values:
+    permalink: "/de/"      
 
 # Assets
 #
@@ -52,19 +66,35 @@ locales:
     baseurl: /en
     name: English
     lang: en-US    
+  de:
+    baseurl: /de
+    name: Deutsch
+    lang: de-DE        
 
 collections:
   pages_en:
     output: true
     permalink: /en/:path/  
+  pages_de:
+    output: true
+    permalink: /de/:path/      
   staff_members:
     output: true
+  staff_members_en:
+    output: true    
+    permalink: /en/team/:path/  
+  staff_members_de:
+    output: true    
+    permalink: /de/team/:path/      
   projects:
     output: true
     permalink: /projects/:path/
   projects_en:
     output: true
     permalink: /en/projects/:path/
+  projects_de:
+    output: true
+    permalink: /de/projects/:path/
   news:
     output: true
   info:

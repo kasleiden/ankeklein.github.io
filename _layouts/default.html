@@ -13,9 +13,15 @@
       
         <div class="menu">
           <ul>
-            <li><a class="menu-link" href="/team/">{{ strings.team }}</a></li>
-            <li><a class="menu-link" href="/projects/">{{ strings.projects }}</a></li>
-            <li><a class="menu-link" href="/media">{{ strings.publications }}</a></li>    
+            {% if page.locale == 'default' %}
+            <li><a class="menu-link" href="{{ site.baseurl }}/team/">{{ strings.team }}</a></li>
+            <li><a class="menu-link" href="{{ site.baseurl }}/projects/">{{ strings.projects }}</a></li>
+            <li><a class="menu-link" href="{{ site.baseurl }}/media">{{ strings.publications }}</a></li> 
+            {% else %}
+            <li><a class="menu-link" href="{{ site.baseurl }}/{{ page.locale }}/team/">{{ strings.team }}</a></li>
+            <li><a class="menu-link" href="{{ site.baseurl }}/{{ page.locale }}/projects/">{{ strings.projects }}</a></li>
+            <li><a class="menu-link" href="{{ site.baseurl }}/{{ page.locale }}/media">{{ strings.publications }}</a></li> 
+            {% endif %} 
         </ul>
         </div>
         <div class="dropdown">
@@ -33,7 +39,7 @@
               <li><a class="menu-flag" href="/en"><img height="15" src="{{ site.url }}/img/flags/en.svg" /></a></li>
               {% endif %}     
               {% if page.locale != 'de' %}
-              <li><a class="menu-flag" href="/en"><img height="15" src="{{ site.url }}/img/flags/de.svg" /></a></li>
+              <li><a class="menu-flag" href="/de"><img height="15" src="{{ site.url }}/img/flags/de.svg" /></a></li>
               {% endif %}     
             </ul>
           </div>

@@ -2,7 +2,6 @@
 layout: media
 title: Onze publicaties
 summary: summary
-permalink: /media
 group: blog
 category: blog
 ---

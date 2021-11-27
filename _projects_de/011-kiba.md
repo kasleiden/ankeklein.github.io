@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ENGLISH Kinder bewältigen Angst - Das KIBA Projekt
+title: Kinder bewältigen Angst - Das KIBA Projekt
 summary: Leidest du unter einer Phobie? Hast du zum Beispiel Höhenangst, Angst im Dunkeln, Angst vor Hunden, Spinnen, Spritzen oder Gewitter? Dann ist das KIBA Training vielleicht etwas für dich! 
 category: project
 image: /img/banner-kiba-de.jpg
