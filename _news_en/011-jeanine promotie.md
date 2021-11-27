@@ -2,7 +2,7 @@
 layout: post
 title: Promotie Jeanine Baartmans
 summary:
-project-url: /team/15-jeanine-baartmans
+project-url: /en/team/15-jeanine-baartmans
 category: news
 image: /img/jeaninepromotie.jpg
 ---

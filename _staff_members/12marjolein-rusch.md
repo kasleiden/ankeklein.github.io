@@ -5,7 +5,6 @@ name: MARJOLEIN RUSCH
 title: Stagiaire SPIL
 group: team
 summary: Marjolein is masterstudent kind- en jeugd psychologie aan de Universiteit Leiden en loopt stage bij het SPIL programma
-permalink: /team/marjolein
 image: /img/marjolein.jpg
 ---
 

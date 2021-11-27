@@ -5,7 +5,6 @@ name: GERALY BIJSTERBOSCH
 title: buitenpromovendus
 group: team
 summary: 
-permalink: /team/geraly
 image: /img/geraly.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Corona en angst bij kinderen
 summary: Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en zorgen rondom Corona. Vind hier filmpjes en betrouwbare informatie speciaal voor kinderen.
-project-url: /projects/4-corona
+project-url: /en/projects/4-corona
 category: news
 image: /img/banner_corona_groot.png
 ---

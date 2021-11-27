@@ -2,7 +2,7 @@
 layout: post
 title: 3 tips voor kinderen
 summary: Wat is Corona? Is Corona gevaarlijk? Kinderen hebben in deze tijd ook vragen en zorgen rondom Corona. De natiomale wetenschapsagenda maakte in samenwerking met Anke een filmpje met 3 tips voor kinderen
-project-url: /projects/4-corona
+project-url: /en/projects/4-corona
 category: news
 image: /img/nwa3tipskind.jpg
 ---

@@ -5,7 +5,6 @@ name: SELINA BURGARD
 title: Junior onderzoeker 
 group: team
 summary: Selina is junior onderzoeker. Daarnaast studeert ze kind- en jeugdpsychologie aan de Universiteit Utrecht.
-permalink: /team/selina
 image: /img/selina.jpg
 ---
 

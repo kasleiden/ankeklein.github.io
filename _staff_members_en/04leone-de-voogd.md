@@ -5,7 +5,6 @@ name: DR. LEONE DE VOOGD
 title: Postdoc
 group: team
 summary: Leone is dagelijks projectleider op het SPIL programma en werkt als docent bij de afdeling Ontwikkelings- en Onderwijspsychologie aan de Universiteit Leiden. 
-permalink: /team/leone
 image: /img/leone.jpg
 ---
 

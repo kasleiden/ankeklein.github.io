@@ -5,7 +5,6 @@ name: NINE WOLTERS
 title: PhD student
 group: team
 summary: Nine haar onderzoek richt zich op eenzaamheid en sociale isolatie in relatie tot mentale gezondheid (sociale angst en depressie) in jongvolwassenen en ouderen. 
-permalink: /team/nine
 image: /img/nine.jpg
 ---
 

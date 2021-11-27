@@ -5,7 +5,6 @@ name: ELINE BOL
 title: Alumnus
 group: alumni
 summary: Eline werkte als junior onderzoeker bij het UvAcare project en Caring Universities
-permalink: /team/rianne
 image: /img/eline.jpg
 ---
 

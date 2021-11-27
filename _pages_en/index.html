@@ -26,7 +26,7 @@ title: Home
 
 ENGLISH
 <div class="posts-container">
-  {% for post in site.news %}
+  {% for post in site.news_en %}
   {% assign remainder = forloop.index | modulo: 2 %}
   {% if remainder == 1 %}
   <div class="row">

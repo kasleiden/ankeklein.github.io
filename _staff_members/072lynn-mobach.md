@@ -5,7 +5,6 @@ name: LYNN MOBACH
 title: PhD student
 group: team
 summary: 
-permalink: /team/lynn
 image: /img/lynn.jpg
 ---
 

@@ -19,6 +19,10 @@ defaults:
   values:
     collection_basename: staff_members        
 - scope:
+    path: "_news*/"
+  values:
+    collection_basename: news      
+- scope:
     path: "*_en/"
   values:
     locale: en
@@ -80,6 +84,7 @@ collections:
     permalink: /de/:path/      
   staff_members:
     output: true
+    permalink: /team/:path/      
   staff_members_en:
     output: true    
     permalink: /en/team/:path/  
@@ -97,6 +102,10 @@ collections:
     permalink: /de/projects/:path/
   news:
     output: true
+    permalink: /news/:path/
+  news_en:
+    output: true
+    permalink: /en/news/:path/    
   info:
     output: true  
   blog:

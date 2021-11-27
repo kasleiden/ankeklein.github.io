@@ -8,7 +8,11 @@
     <div class="container content">
       <header class="masthead">
         <h2 class="masthead-title">
-          <a href="/">{{ strings.title }}</a>
+          {% if page.locale == 'default' %}
+            <a href="/">{{ strings.title }}</a>
+          {% else %}
+            <a href="/{{ page.locale }}">{{ strings.title }}</a>
+          {% endif %}
         </h2>
       
         <div class="menu">

@@ -5,7 +5,6 @@ name: PROF. RON RAPEE
 title: University Distinguished Professor in Clinical Psychology
 group: collaborator
 summary: Prof Ron Rapee is Distinguised Professor of Psychology, Macquarie University
-permalink: /team/ron
 image: /img/ron.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: PEERS-studie
 summary: Doet jouw school ook mee met de PEERS-studie?
-project-url: /projects/012_peers
+project-url: /en/projects/012_peers
 category: news
 image: /img/peers.jpg
 ---

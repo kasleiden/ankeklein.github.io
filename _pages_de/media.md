@@ -1,6 +1,6 @@
 ---
 layout: media
-title: Unser Publikations
+title: Unser Publikationen
 summary: summary
 group: blog
 category: blog
