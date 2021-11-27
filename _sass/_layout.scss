@@ -229,9 +229,10 @@ a.feature-link:hover {
 .column {
   padding-left: 15px;
   padding-right: 15px;
-  width: 100%;
+  max-width: 100%;
   @media (min-width: $middle-breakpoint) {
     width: 50%;
+    max-width: 25%;
   }
 }
 
