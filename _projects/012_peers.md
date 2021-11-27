@@ -2,7 +2,6 @@
 layout: post
 title: PEERS-studie
 summary: Doet jouw school ook mee met de PEERS-studie? 
-permalink: /projects/peers
 category: project
 image: /img/peers.jpg
 members: [anke, annelieke, recep, yolinda, amal]

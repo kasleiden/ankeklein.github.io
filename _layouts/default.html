@@ -1,43 +1,31 @@
+{% include i18n/i18n %} 
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ locale.lang }}">
   {% include head.html %}
 
   <body>
-    <!-- hamburger menu -->
-    <!-- <input type="checkbox" id="nav-trigger" class="nav-trigger" /> -->
-    <!-- <label for="nav-trigger"><span>toggle menu</span></label>
-    <ul class="navigation">
-      <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-      <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
-      <li class="nav-item">
-        <a class="nav-link" href="/presentations">Presentations</a>
-      </li>
-      <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
-    </ul> -->
-
     <div class="container content">
       <header class="masthead">
         <h2 class="masthead-title">
-          <a href="/">Angst bij kinderen</a>
+          <a href="/">{{ strings.title }}</a>
         </h2>
-        <!-- <div class="masthead-title-left">
-          <a href="{{ site.baseurl }}/" title="Home"><img height="64" src="{{ site.url }}/img/banner.jpg"></a>
-        </div> -->
-        <!-- <div class="masthead-title-right">
-          <img class="masthead-logo" height="64" src="{{ site.url }}/img/zegel.png">
-        </div> -->
+      
         <div class="menu">
           <ul>
-            <li><a class="menu-link" href="/" class="active"></a></li>
-            <li><a class="menu-link" href="/team/">TEAM</a></li>
-            <li><a class="menu-link" href="/projects/">PROJECTEN</a></li>
-            <li><a class="menu-link" href="/media">PUBLICATIES</a></li>
+            <li><a class="menu-link" href="/team/">{{ strings.team }}</a></li>
+            <li><a class="menu-link" href="/projects/">{{ strings.projects }}</a></li>
+            <li><a class="menu-link" href="/media">{{ strings.publications }}</a></li>    
+            <li></li> 
+            {% if page.locale != 'default' %}
+            <li><a class="menu-flag" href="/"><img height="15" width src="{{ site.url }}/img/flags/nl.svg" /></a></li>
+            {% endif %}
+            {% if page.locale != 'en' %}
+            <li><a class="menu-flag" href="/en"><img height="15" src="{{ site.url }}/img/flags/en.svg" /></a></li>
+            {% endif %}     
           </ul>
         </div>
-
-
-      </header>
-    
+      </header>    
     </div>
       <main>
         {{ content }}

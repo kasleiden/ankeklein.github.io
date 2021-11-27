@@ -8,6 +8,28 @@ url: https://angstbijkinderen.nl
 paginate: 1
 baseurl: ""
 analytics_id: UA-72478077-1
+
+defaults:
+- scope:
+    path: "_projects*/"
+  values:
+    collection_basename: projects
+- scope:
+    path: "*_en/"
+  values:
+    locale: en
+    lang: en-US
+    collection_suffix: _en
+- scope:
+    path: ""
+  values:
+    locale: default
+    lang: nl-NL    
+- scope:
+    path: "_pages_en/index.*"
+  values:
+    permalink: "/en/"    
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -21,11 +43,28 @@ author:
   url: http://ankeklein.nl
   email: kas@fsw.leidenuniv.nl
 
+locales:
+  default:
+    baseurl: ""
+    name: Dutch
+    lang: nl-NL
+  en:
+    baseurl: /en
+    name: English
+    lang: en-US    
+
 collections:
+  pages_en:
+    output: true
+    permalink: /en/:path/  
   staff_members:
     output: true
   projects:
     output: true
+    permalink: /projects/:path/
+  projects_en:
+    output: true
+    permalink: /en/projects/:path/
   news:
     output: true
   info:
