@@ -16,14 +16,27 @@
             <li><a class="menu-link" href="/team/">{{ strings.team }}</a></li>
             <li><a class="menu-link" href="/projects/">{{ strings.projects }}</a></li>
             <li><a class="menu-link" href="/media">{{ strings.publications }}</a></li>    
-            <li></li> 
-            {% if page.locale != 'default' %}
-            <li><a class="menu-flag" href="/"><img height="15" width src="{{ site.url }}/img/flags/nl.svg" /></a></li>
-            {% endif %}
-            {% if page.locale != 'en' %}
-            <li><a class="menu-flag" href="/en"><img height="15" src="{{ site.url }}/img/flags/en.svg" /></a></li>
-            {% endif %}     
-          </ul>
+        </ul>
+        </div>
+        <div class="dropdown">
+          <span>
+            {% if page.locale == 'default' %}EN/DE{% endif %}
+            {% if page.locale == 'en' %}NL/DE{% endif %}
+            {% if page.locale == 'de' %}EN/DE{% endif %}
+          </span>
+          <div class="dropdown-content">
+            <ul>
+              {% if page.locale != 'default' %}
+              <li><a class="menu-flag" href="/"><img height="15" width src="{{ site.url }}/img/flags/nl.svg" /></a></li>
+              {% endif %}
+              {% if page.locale != 'en' %}
+              <li><a class="menu-flag" href="/en"><img height="15" src="{{ site.url }}/img/flags/en.svg" /></a></li>
+              {% endif %}     
+              {% if page.locale != 'de' %}
+              <li><a class="menu-flag" href="/en"><img height="15" src="{{ site.url }}/img/flags/de.svg" /></a></li>
+              {% endif %}     
+            </ul>
+          </div>
         </div>
       </header>    
     </div>

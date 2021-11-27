@@ -237,3 +237,42 @@ a.menu-link:active,
 a.menu-link:visited {
   color: black;
 }
+
+.dropdown {
+  margin-bottom: 0.5rem;
+  margin-top: -2.5rem;
+  max-width: 3rem;
+  margin-right: auto;
+  margin-left: auto;
+  @media (min-width: $middle-breakpoint) {
+    margin-top: -4.4rem;
+  }
+
+  @media (min-width: $middle-breakpoint) {
+    margin-right: 10%;
+    width: auto;
+  }
+}
+
+.dropdown ul {
+  list-style: none;
+  border: 0;
+  margin-left: -40px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 2px 8px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.menu-flag{
+  margin: 0px 0px 0px 0px;
+}
