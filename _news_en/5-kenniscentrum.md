@@ -7,4 +7,4 @@ category: news
 image: /img/banner_KAS_groot.jpg
 ---
 
-[klik hier](https://kasleiden.nl) om naar de website van het kenniscentrum te gaan. 
+<a href="https://kasleiden.nl">[klik hier]</a> om naar de website van het kenniscentrum te gaan. 
