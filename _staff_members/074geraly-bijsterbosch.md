@@ -2,7 +2,7 @@
 nameid: geraly
 layout: teammember
 name: GERALY BIJSTERBOSCH
-title: buitenpromovendus
+title: promovendus
 group: team
 summary: 
 image: /img/geraly.jpg
