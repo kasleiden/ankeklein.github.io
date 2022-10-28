@@ -1,6 +1,6 @@
 ---
 nameid: yolinda
-layout: teammember
+layout: alumnus
 name: YOLINDA DAVIDSE
 title: Gastonderzoeker PEERS-studie
 group: team
