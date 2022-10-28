@@ -5,7 +5,7 @@ name: Laura
 title: stagiaire
 group: team
 summary: Laura loop als masterstudent aan de Universiteit Leiden stage bij het KIBA project.
-image: /img/Laure.jpeg
+image: /img/Laura.jpeg
 ---
 
 
