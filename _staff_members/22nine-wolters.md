@@ -1,10 +1,10 @@
 ---
 nameid: nine
 layout: teammember
-name: NINE WOLTERS
-title: PhD student
-group: team
-summary: Nine haar onderzoek richt zich op eenzaamheid en sociale isolatie in relatie tot mentale gezondheid (sociale angst en depressie) in jongvolwassenen en ouderen. 
+name: DR NINE WOLTERS
+title: Alumnus
+group: alumni
+summary: Nine haar onderzoek richtte zich op eenzaamheid en sociale isolatie in relatie tot mentale gezondheid (sociale angst en depressie) in jongvolwassenen en ouderen. 
 image: /img/nine.jpg
 ---
 
