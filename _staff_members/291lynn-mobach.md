@@ -2,8 +2,8 @@
 nameid: lynn
 layout: teammember
 name: LYNN MOBACH
-title: PhD student
-group: team
+title: postdoc
+group: collaborator
 summary: 
 image: /img/lynn.jpg
 ---
