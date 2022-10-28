@@ -2,11 +2,11 @@
 nameid: Chang
 layout: teammember
 name: CHANG LIU
-title: junior onderzoeker
+title: Promovendus
 group: team
-summary: Chang is junior onderzoeker bij het Kenniscentrum. Ze doet onderzoek naar vroegsignaleren van angsten en stress bij kinderen met een migratieachtergrond.
+summary: Chang is promovendus. Ze doet onderzoek naar vroegsignaleren van angsten en stress bij kinderen met een migratieachtergrond.
 image: /img/chang.jpg
 ---
 
-Chang is junior onderzoeker bij het Kenniscentrum. Ze doet onderzoek naar vroegsignaleren van angsten en stress bij kinderen met een migratieachtergrond.
+Chang is promovendus. Ze doet onderzoek naar vroegsignaleren van angsten en stress bij kinderen met een migratieachtergrond. Ze wordt begeleid door Anke en Jeanine.
 
