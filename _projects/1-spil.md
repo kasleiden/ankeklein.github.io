@@ -3,7 +3,7 @@ layout: post
 title: Signalering, Preventie & Interventie bij Leerlingen met angst
 summary: Hoe kunnen we scholen helpen stress en angst in de klas te herkennen en te voorkomen en samen met scholen leerlingen snel de juiste ondersteuning bieden? Doe mee met het SPIL-programma!
 category: project
-image: /img/banner_SPIL_groot.jpg
+image: /img/spil4.jpg
 members: [leone, michiel, anika, anke, marjolein]
 ---
 
