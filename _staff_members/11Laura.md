@@ -1,7 +1,7 @@
 ---
 nameid: Laura
 layout: teammember
-name: Laura
+name: LAURA BAARS
 title: stagiaire
 group: team
 summary: Laura loop als masterstudent aan de Universiteit Leiden stage bij het KIBA project.
