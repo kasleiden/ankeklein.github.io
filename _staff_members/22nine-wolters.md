@@ -2,7 +2,7 @@
 nameid: nine
 layout: teammember
 name: DR NINE WOLTERS
-title: Alumnus
+title: Promovendus
 group: alumni
 summary: Nine haar onderzoek richtte zich op eenzaamheid en sociale isolatie in relatie tot mentale gezondheid (sociale angst en depressie) in jongvolwassenen en ouderen. 
 image: /img/nine.jpg
