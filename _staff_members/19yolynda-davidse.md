@@ -4,7 +4,7 @@ layout: teammember
 name: YOLINDA DAVIDSE
 title: Alumnus
 group: alumni
-summary: Yolinda is masterstudent bij de opleiding school psychologie aan de Universiteit Leiden en loopt stage bij het KIBA project.
+summary: Yolinda liep als masterstudent bij de opleiding school psychologie aan de Universiteit Leiden stage bij het KIBA project.
 image: /img/yolinda.jpg
 ---
 
