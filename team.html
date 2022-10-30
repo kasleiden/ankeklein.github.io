@@ -8,7 +8,8 @@ title: TEAM
     <h3>OVER ONS</h3>
   </div>
   <p>
-    Onze groep wil een brug slaan tussen wetenschap en de praktijk. Onze kracht ligt in het opzetten van projecten met een hoge klinische relevantie en toepassing.
+    Onze groep wil een brug slaan tussen wetenschap en de praktijk. Onze kracht ligt in het opzetten van projecten met
+    een hoge klinische relevantie en toepassing.
   </p>
   <br />
   <br />
@@ -17,75 +18,20 @@ title: TEAM
   </div>
   <br />
   <br />
+  {% assign i = 1 %}
   {% for staff_member in site.staff_members %}
   {% assign remainder = forloop.index | modulo: 4 %}
-    {% if remainder == 1 %}
-    <div class="row">
-    {% endif %}
-      {%if staff_member.group == "team" %}
-        <div class="column-team">
-          <div class="article">
-            <div class="article-head">
-              <a href="{{ site.baseurl }}{{ staff_member.url }}">
-                <img src="{{ site.url }}{{staff_member.image}}" />
-              </a>
-            </div>
-            <div class="article-content">
-              <h4>{{ staff_member.name }}</h4>
-              <h5>{{ staff_member.title }}</h5>
-              <p class="article-summary">{{ staff_member.summary }}</p>
-            </div>
-          </div>
-        </div>
-        {% endif %} 
-    {% if remainder == 0 %}
-    </div>
-    {% endif %}
-    {% endfor %}
-    <hr />
-  </div>  
-  <div>
-    <h3>ALUMNI</h3>
-  </div>
+  {%if staff_member.group == "team" %}
+  {% assign remainder = i | modulo: 4 %}
+  {% if remainder == 1 %}
   <div class="row">
-    {% for staff_member in site.staff_members %}
-    {% assign remainder = forloop.index | modulo: 4 %}
-      {% if remainder == 1 %}
-      <div class="row">
-      {% endif %}
-          {%if staff_member.group == "alumni" %}
-        <div class="column-team">
-          <div class="article">
-            <div class="article-head">
-              <a href="{{ site.baseurl }}{{ staff_member.url }}">
-                <img src="{{ site.url }}{{staff_member.image}}" />
-              </a>
-            </div>
-            <div class="article-content">
-              <h4>{{ staff_member.name }}</h4>
-              <h5>{{ staff_member.title }}</h5>
-              <p class="article-summary">{{ staff_member.summary }}</p>
-            </div>
-          </div>
-        </div>
-        {% endif %}
-     {% if remainder == 0 %}
-    </div>
     {% endif %}
-    {% endfor %}
- <hr />
-  <div>
-    <h3>COLLABORATORS</h3>
-  </div>
-  <div class="row">
-    {% for staff_member in site.staff_members %}
-    {%if staff_member.group == "collaborator" %}
     <div class="column-team">
       <div class="article">
         <div class="article-head">
-           <a href="{{ site.baseurl }}{{ staff_member.url }}">
-                <img src="{{ site.url }}{{staff_member.image}}" />
-              </a>
+          <a href="{{ site.baseurl }}{{ staff_member.url }}">
+            <img src="{{ site.url }}{{staff_member.image}}" />
+          </a>
         </div>
         <div class="article-content">
           <h4>{{ staff_member.name }}</h4>
@@ -94,9 +40,83 @@ title: TEAM
         </div>
       </div>
     </div>
-    {% endif %}
-    {% endfor %}
+    {% if remainder == 0 %}
   </div>
+  {% endif %}
+  {% assign i = i | plus: 1 %}
+  {% endif %}
+  {% endfor %}
+  <hr />
+</div>
+<div>
+  <h3>ALUMNI</h3>
+</div>
+<br />
+<br />
+{% assign i = 1 %}
+{% for staff_member in site.staff_members %}
+{%if staff_member.group == "alumni" %}
+{% assign remainder = i | modulo: 4 %}
+{% if remainder == 1 %}
+<div class="row">
+  {% endif %}
+  <div class="column-team">
+    <div class="article">
+      <div class="article-head">
+        <a href="{{ site.baseurl }}{{ staff_member.url }}">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </a>
+      </div>
+      <div class="article-content">
+        <h4>{{ staff_member.name }}</h4>
+        <h5>{{ staff_member.title }}</h5>
+        <p class="article-summary">{{ staff_member.summary }}</p>
+      </div>
+    </div>
+  </div>
+  {% if remainder == 0 %}
+</div>
+{% endif %}
+{% assign i = i | plus: 1 %}
+{% endif %}
+{% endfor %}
+<hr />
+</div>
+<div>
+  <h3>COLLABORATORS</h3>
+</div>
+<br />
+<br />
+{% assign i = 1 %}
+{% for staff_member in site.staff_members %}
+{%if staff_member.group == "collaborator" %}
+{% assign remainder = i | modulo: 4 %}
+{% if remainder == 1 %}
+<div class="row">
+  {% endif %}
+  <div class="column-team">
+    <div class="article">
+      <div class="article-head">
+        <a href="{{ site.baseurl }}{{ staff_member.url }}">
+          <img src="{{ site.url }}{{staff_member.image}}" />
+        </a>
+      </div>
+      <div class="article-content">
+        <h4>{{ staff_member.name }}</h4>
+        <h5>{{ staff_member.title }}</h5>
+        <p class="article-summary">{{ staff_member.summary }}</p>
+      </div>
+    </div>
+  </div>
+  {% if remainder == 0 %}
+</div>
+{% endif %}
+{% assign i = i | plus: 1 %}
+{% endif %}
+{% endfor %}
+<hr />
+</div>
+</div>
 </div>
 
 {% include bottom-menu.html %}
