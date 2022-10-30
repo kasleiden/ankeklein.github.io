@@ -2,7 +2,7 @@
 nameid: jasmin
 layout: teammember
 name: JASMIN RAHEMENIA
-title: Junior onderzoeker
+title: Stagiaire KIBA
 group: team
 summary: Jasmin is Research Master Stagiare Developmental Psychology, Universiteit Leiden
 image: /img/jasmin.jpg
