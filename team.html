@@ -56,7 +56,7 @@ title: TEAM
 {% assign i = 1 %}
 {% for staff_member in site.staff_members %}
 {%if staff_member.group == "alumni" %}
-{% assign remainder = i | modulo: 4 %}
+{% assign remainder = i | modulo: 6 %}
 {% if remainder == 1 %}
 <div class="row">
   {% endif %}
@@ -90,7 +90,7 @@ title: TEAM
 {% assign i = 1 %}
 {% for staff_member in site.staff_members %}
 {%if staff_member.group == "collaborator" %}
-{% assign remainder = i | modulo: 4 %}
+{% assign remainder = i | modulo: 6 %}
 {% if remainder == 1 %}
 <div class="row">
   {% endif %}
